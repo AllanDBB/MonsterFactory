@@ -1,3 +1,0 @@
-C:/Users/adbyb/OneDrive/Documentos/GitHub/MonsterFactory/cmake-build-debug/CMakeFiles/MonsterFactory.dir
-C:/Users/adbyb/OneDrive/Documentos/GitHub/MonsterFactory/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/adbyb/OneDrive/Documentos/GitHub/MonsterFactory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
