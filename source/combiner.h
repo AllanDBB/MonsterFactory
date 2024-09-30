@@ -1,8 +1,5 @@
-//
-// Created by adbyb on 9/29/2024.
-//
-
 #include <bits/stdc++.h>
+#include "garbageCollector.h"
 
 using namespace std;
 
@@ -11,12 +8,69 @@ using namespace std;
 
 struct Combiner{
 
-    // This combiner works for only 3 queues.
+	// This combiner works for only 3 queues (material, energy, evil).
+	// Change it for more materials.
 
-    // Queue* material;
-    // Queue* energy;
-    // Queue* maldad;
+	MaterialQueue* material;
+	MaterialQueue* energy;
+	MaterialQueue* evil;
+	MonsterQueue* toBaking;
+	GarbageCollector* garbage;
 
+	Combiner(MaterialQueue* m, MaterialQueue* e, MaterialQueue* ev, MonsterQueue* _toBaking, GarbageCollector* _garbage){
+		material = m;
+		energy = e;
+		evil = ev;
+		toBaking = _toBaking;
+		garbage = _garbage;
+	}
+
+	string getCombination(const string& _energy, const string& _material, const string& _evil) {
+
+		map<string, string> combinations = {
+			{"Cósmica_Orgánico_Astuta", "Inteligencia"},
+			{"Elemental_Radioactivo_Caótica", "Destrucción"},
+			{"Oscura_Orgánico_Despiadada", "Regeneración"},
+			{"Elemental_Metélico_Despiadada", "Fuerza"},
+			{"Oscura_Metélico_Astuta", "Maldad"},
+			{"Oscura_Radioactivo_Despiadada", "Veneno"},
+			{"Cósmica_Radioactivo_Caótica", "Locura"},
+			{"Cósmica_Metélico_Astuta", "Tecnología"},
+			{"Elemental_Orgánico_Caótica", "Velocidad"}
+		};
+
+		string combination = _energy + "_" + _material + "_" + _evil;
+
+		if (combinations.find(combination) != combinations.end()) {
+			return combinations[combination];
+		} else {
+			return "BUENO";
+		}
+	}
+
+	Monster* combine(){
+		if (material->isEmpty() || energy->isEmpty() || evil->isEmpty())
+			return nullptr;
+
+		bool temp = true;
+		string combinationResult = getCombination(energy->peek(), material->peek(), evil->peek());
+
+		if (combinationResult == "BUENO")
+			temp = false;
+
+		Monster* newMonster = new Monster(combinationResult, energy->peek() + ", " + material->peek() + ", " + evil->peek(), temp);
+
+		if (temp)
+			toBaking->enqueue(newMonster);
+		else
+			garbage->insert(newMonster);
+
+		evil->dequeue();
+		energy->dequeue();
+		material->dequeue();
+
+		return newMonster;
+	}
 
 };
 #endif //COMBINER_H

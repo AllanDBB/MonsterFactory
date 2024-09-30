@@ -14,11 +14,11 @@ struct Material{
 
     int type;
     int index;
-    String name;
-    String description;
+    string name;
+    string description;
     Material* next;
 
-    Material(int _type, String _name, String _description, int _index){
+    Material(int _type, string _name, string _description, int _index){
 
         type = _type;
         name = _name;
@@ -37,9 +37,9 @@ struct RawMaterials{
 
     // Array list settings:
     int type;
-    String className;
+    string className;
 
-    RawMaterials(int _type, String _className){
+    RawMaterials(int _type, string _className){
         type = _type;
         className = _className;
         firstMaterial = nullptr;
@@ -47,7 +47,7 @@ struct RawMaterials{
 
     }
 
-    bool addMaterial(int _type, String _name, String _description){
+    bool addMaterial(int _type, string _name, string _description){
 
         // Add a material
 
@@ -59,6 +59,7 @@ struct RawMaterials{
             Material * newMaterial = new Material(_type, _name, _description, 0);
             firstMaterial = newMaterial;
             length++;
+            return true;
         }
 
         // Check if that name already exists.
@@ -77,14 +78,15 @@ struct RawMaterials{
         // Create a new material.
         Material * newMaterial = new Material(_type, _name, _description, length);
         temp->next = newMaterial;
-
+        length++;
+        return true;
     }
 
     Material* returnFromIndex(int _index){
 
         // Returns a specific material from an index from 0 to length - 1.
 
-        if (_index >= length-1 || _index < 0)
+        if (_index < 0)
             return nullptr;
 
         Material* temp = firstMaterial;

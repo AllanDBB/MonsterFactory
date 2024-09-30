@@ -5,7 +5,7 @@
 
 #include <bits/stdc++.h>
 #include "material.h"
-
+#include "queues.h"
 
 using namespace std;
 
@@ -17,14 +17,14 @@ struct Source{
 
     int time;
     bool inProduction = false;
-    // Queue * queue;
+    MaterialQueue * queue;
     RawMaterials* materials;
 
 
-    Source(int _time, RawMaterial* material, Queue* queue){
+    Source(int _time, RawMaterials* _materials, MaterialQueue* _queue){
         time = _time;
-        RawMaterial = materials;
-        // queue = queue;
+        materials = _materials;
+        queue = _queue;
     }
 
     void start(){
@@ -35,20 +35,17 @@ struct Source{
         inProduction = false;
     }
 
-        void produce(){
+    void produce() {
+        if (!inProduction)
+            return;
 
-            if (!inProduction)
-                return;
+        int materialIndex = rand() % materials->length; // ¡! TODO. Why only says 2.
+        
+        Material* producedMaterial = materials->returnFromIndex(materialIndex);
 
-            int materialndex = rand() % material.length;
-
-            Material* producedMaterial = returnFromIndex(materialIndex);
-
-            // Add produced material to queue:
-            String token = to_string(producedMaterial.index) + " " + producedMaterial.name + " " + materials.className;
-            // queue.add(producedMaterial); || queue.add(token) || queue.add(producedMaterial.index);
-
-        }
+        string token = to_string(producedMaterial->index) + " " + producedMaterial->name + " " + materials->className;
+        queue->enqueue(producedMaterial->name);
+    }
 
 };
 
