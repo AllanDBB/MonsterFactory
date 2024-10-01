@@ -66,6 +66,7 @@ struct Furnace{
 
     void empty(){
         Monster* temp;
+
         while(tray1->length != 0 && tray1->inProduction == true){
             temp = tray1->pop();
             toQuality->enqueue(temp);
