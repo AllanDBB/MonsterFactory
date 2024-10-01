@@ -13,7 +13,7 @@ struct Client {
     bool priority;
     int orderNumber;
     Client* next;
-    Monster* firstMonster;
+    MonsterNode* firstMonster;
 
     Client(string _name, bool _priority, int _orderNumber) {
         name = _name;
@@ -23,21 +23,24 @@ struct Client {
         next = NULL;
     }
 
+
     void insert(Monster* monster) {
         if (firstMonster == NULL) {
-            firstMonster = monster;
+            firstMonster = new MonsterNode(monster);
         } else {
-            Monster* temp = monster;
+            MonsterNode* temp = new MonsterNode(monster);
             temp->next = firstMonster;
             firstMonster = temp;
         }
     }
 
+
+
     bool checkOrder() { // Checks if all the monsters in the order are reserved
         bool complete = true;
-        Monster* temp = firstMonster;
+        MonsterNode* temp = firstMonster;
         while (temp != NULL) {
-            if (temp->state == 1)
+            if (temp->monster->state == 3)
                 temp = temp->next;
             else
                 complete = false;
@@ -46,10 +49,10 @@ struct Client {
     }
 
     string toString() {
-        Monster* temp = firstMonster;
+        MonsterNode* temp = firstMonster;
         string order = "";
         while (temp != NULL) {
-            order = order + temp->name + ", ";
+            order = order + temp->monster->type + ", ";
             temp = temp->next;
         }
         return "Name: " + name + " Order number: " + to_string(orderNumber) + " Priority: " + (priority ? "With priority" : "Without priority") + " Order: " + order;
