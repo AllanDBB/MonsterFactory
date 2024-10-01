@@ -15,7 +15,7 @@ struct Inspector {
     int time; // in seconds
 
     Inspector() {
-        probability = 50;
+        probability = 80;
         time = 2;
     }
 
