@@ -15,7 +15,7 @@ using namespace std;
 #include "inspector.h"
 
 struct Storage {
-    Monster* first;
+    MonsterNode* first;
 
     Storage() {
         first = NULL;
@@ -23,12 +23,26 @@ struct Storage {
 
     void insert(Monster* monster) {
         if (first == NULL) {
-            first = monster;
+            first = new MonsterNode(monster);
+            first->monster->state= Monster::inStock;
         } else {
-            Monster* temp = monster;
+            MonsterNode* temp = new MonsterNode(monster);
+            temp->monster->state= Monster::inStock;
             temp->next = first;
             first = temp;
         }
+    }
+
+    MonsterNode* findMonster(string monster) {
+        MonsterNode * temp = first;
+        while (temp != NULL) {
+            if (temp->monster->type == monster) {
+                return temp;
+            }
+            temp = temp->next;
+
+        }
+        return NULL;
     }
 };
 
