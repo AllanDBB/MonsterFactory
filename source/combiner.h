@@ -28,15 +28,15 @@ struct Combiner{
 	string getCombination(const string& _energy, const string& _material, const string& _evil) {
 
 		map<string, string> combinations = {
-			{"Cósmica_Orgánico_Astuta", "Inteligencia"},
-			{"Elemental_Radioactivo_Caótica", "Destrucción"},
-			{"Oscura_Orgánico_Despiadada", "Regeneración"},
-			{"Elemental_Metélico_Despiadada", "Fuerza"},
-			{"Oscura_Metélico_Astuta", "Maldad"},
-			{"Oscura_Radioactivo_Despiadada", "Veneno"},
-			{"Cósmica_Radioactivo_Caótica", "Locura"},
-			{"Cósmica_Metélico_Astuta", "Tecnología"},
-			{"Elemental_Orgánico_Caótica", "Velocidad"}
+			{"Cósmica_Orgánico_Astuta", "INTELIGENCIA"},
+			{"Elemental_Radioactivo_Caótica", "DESTRUCCION"},
+			{"Oscura_Orgánico_Despiadada", "REGENERACION"},
+			{"Elemental_Metélico_Despiadada", "FUERZA"},
+			{"Oscura_Metélico_Astuta", "MALDAD"},
+			{"Oscura_Radioactivo_Despiadada", "VENENO"},
+			{"Cósmica_Radioactivo_Caótica", "LOCURA"},
+			{"Cósmica_Metélico_Astuta", "TECNOLOGIA"},
+			{"Elemental_Orgánico_Caótica", "VELOCIDAD"}
 		};
 
 		string combination = _energy + "_" + _material + "_" + _evil;
