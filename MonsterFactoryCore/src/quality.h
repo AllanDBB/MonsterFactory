@@ -98,7 +98,7 @@ struct Quality {
     }
 
     bool isEmpty() {
-        if (monster_queue->first == NULL)
+        if (monster_queue->first == nullptr)
             return true;
         else
             return false;
@@ -111,11 +111,11 @@ struct Quality {
 
     Monster* dequeue() {
         if (isEmpty())
-            return NULL;
+            return nullptr;
         else {
             MonsterNode* temp = monster_queue->first;
             monster_queue->first = monster_queue->first->next;
-            temp->next = NULL;
+            temp->next = nullptr;
             return temp->monster;
         }
     }
@@ -123,15 +123,15 @@ struct Quality {
     void activate() {
         Monster* temp = dequeue();
 
-        while (temp != NULL) {
-            if (inspector1->activate(temp) == NULL) {
+        while (temp != nullptr) {
+            if (inspector1->activate(temp) == nullptr) {
                 garbageCollector->insert(temp);
                 writeToInspector1Log("[" + getTimestamp() + "] The monster " +temp->tostring()+ " has been discarded.");
                 writeToGarbageCollectorLog("[" + getTimestamp() + "] The monster " +temp->tostring()+ " entered because inspector 1 discarded it.");
                 writeToGeneralLog("[" + getTimestamp() + "] The monster " +temp->tostring()+ " entered the garbage collector because inspector 1 discarded it.");
                 temp = dequeue();
             } else {
-                if (inspector2->activate(temp) == NULL) {
+                if (inspector2->activate(temp) == nullptr) {
                     garbageCollector->insert(temp);
                     writeToInspector2Log("[" + getTimestamp() + "] The monster " +temp->tostring()+ " has been discarded.");
                     writeToGarbageCollectorLog("[" + getTimestamp() + "] The monster " +temp->tostring()+" entered because inspector 2 discarded it."); // TODO: write it correctly
