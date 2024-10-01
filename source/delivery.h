@@ -2,7 +2,7 @@
 // Created by natal on 9/29/2024.
 //
 
-#include "client.h"
+#include "cliente.h"
 #include <bits/stdc++.h>
 #include "monster.h"
 #include "quality.h"
@@ -10,6 +10,19 @@
 
 #ifndef DELIVERY_H
 #define DELIVERY_H
+
+void writeToOrderLog(const string& mensaje) {
+    ofstream bitacora;
+
+    bitacora.open("C:/Users/natal/Desktop/u/2024/segundo semestre/estructuras de datos/bitacoraPedidos.txt", ios::app);
+
+    if (bitacora.is_open()) {
+        bitacora << mensaje << endl;
+        bitacora.close();
+    } else {
+        cout << "No se pudo abrir el archivo de bitácora." << endl;
+    }
+}
 
 struct Delivery {
     Storage* storage;
@@ -25,30 +38,25 @@ struct Delivery {
     void insertNormal(Client* client) {
         if (firstNormalClient == NULL) {
             firstNormalClient = client;
-            writeToOrderLog("["+getTimestamp()+"] " +firstNormalClient->toString());
-            writeToGeneralLog("["+getTimestamp()+"] The order: " +firstNormalClient->toString()+ " has been received.");
         } else {
-            Client* temp = client;
-            writeToOrderLog("["+getTimestamp()+"] " +temp->toString());
-            writeToGeneralLog("["+getTimestamp()+"] The order: " +temp->toString()+ " has been received.");
-            temp->next = firstNormalClient;
-            firstNormalClient = temp;
+            client->next = firstNormalClient;
+            firstNormalClient = client;
         }
+        writeToOrderLog("[" + getTimestamp() + "] " + client->toString());
+        writeToGeneralLog("[" + getTimestamp() + "] The order: " + client->toString() + " has been received.");
     }
 
     void insertPriority(Client* client) {
         if (firstPriorityClient == NULL) {
             firstPriorityClient = client;
-            writeToOrderLog("["+getTimestamp()+"] " +firstPriorityClient->toString());
-            writeToGeneralLog("["+getTimestamp()+"] The order: " +firstPriorityClient->toString()+ " has been received.");
         } else {
-            Client* temp = client;
-            writeToOrderLog("["+getTimestamp()+"] " +temp->toString());
-            writeToGeneralLog("["+getTimestamp()+"] The order: " +temp->toString()+ " has been received.");
-            temp->next = firstPriorityClient;
-            firstPriorityClient = temp;
+            client->next = firstPriorityClient;
+            firstPriorityClient = client;
         }
+        writeToOrderLog("[" + getTimestamp() + "] " + client->toString());
+        writeToGeneralLog("[" + getTimestamp() + "] The order: " + client->toString() + " has been received.");
     }
+
 
     void insert(Client* client) {
         if (client->priority == true) {
@@ -59,68 +67,64 @@ struct Delivery {
     }
 
     void deliverOrders(Client* client) {
-        Monster* temp = client->firstMonster;
+        MonsterNode* temp = client->firstMonster;
         while (temp != NULL) {
-            temp->state = 2; // mark all monsters as delivered
+            temp->monster->state = Monster::delivered;
             temp = temp->next;
         }
     }
 
-    void activate() {
-        Client* temp = firstPriorityClient;
-        while (temp != NULL) {
-            Monster* monster = temp->firstMonster;
-            while (monster != NULL) {
-                Monster* reviewing = storage->first;
-                while (reviewing != NULL) {
-                    if (reviewing->state == 0 && reviewing->name == monster->name) {
-                        reviewing->state = 1; // mark as reserved
-                        monster->state = 1;
+    void activate() { //ERROR: NO FUNCIONA PARA PEDIDOS CON MÁS DE UN MONSTRUO
+        Client * client = firstPriorityClient;
 
-                        if (temp->checkOrder() == true) {
-                            deliverOrders(temp);
-                            writeToOrderLog("["+getTimestamp()+"] The order: "+temp->toString()+" has been delivered.");
-                            writeToGeneralLog("["+getTimestamp()+"] The order: "+temp->toString()+" has been delivered.");
-                        }
+        while (client != NULL) {
+            MonsterNode* temp = client->firstMonster;
+
+            while (temp != NULL) {
+                cout<<temp->monster->type;
+                MonsterNode* foundMonster = storage->findMonster(temp->monster->type);
+
+                if (foundMonster != nullptr && foundMonster->monster->state == Monster::inStock) {
+                    foundMonster->monster->state = Monster::reserved;
+                    temp->monster->state = Monster::reserved;
+
+                    if (client->checkOrder() == true) {
+                        deliverOrders(client);
+                        writeToOrderLog("[" + getTimestamp() + "] The order: " + client->toString() + " has been delivered.");
+                        writeToGeneralLog("[" + getTimestamp() + "] The order: " + client->toString() + " has been delivered.");
                     }
-                    reviewing = reviewing->next;
                 }
-                monster = monster->next;
+
+                temp = temp->next;
             }
-            temp = temp->next;
+            client = client->next;
         }
 
-        Client* temp2 = firstNormalClient;
-        while (temp2 != NULL) {
-            Monster* monster = temp2->firstMonster;
-            while (monster != NULL) {
-                Monster* reviewing = storage->first;
-                while (reviewing != NULL) {
-                    if (reviewing->state == 0 && reviewing->name == monster->name) {
-                        reviewing->state = 1; // mark as reserved
-                        monster->state = 1;
+        Client * client2 = firstNormalClient;
 
-                        if (temp2->checkOrder() == true) {
-                            deliverOrders(temp2);
-                            writeToOrderLog("["+getTimestamp()+"] The order: "+temp2->toString()+" has been delivered.");
-                            writeToGeneralLog("["+getTimestamp()+"] The order: "+temp2->toString()+" has been delivered.");
-                        }
+        while (client2 != NULL) {
+            MonsterNode* temp2 = client2->firstMonster;
+
+            while (temp2 != NULL) {
+                MonsterNode* foundMonster2 = storage->findMonster(temp2->monster->type);
+
+                if (foundMonster2 != nullptr && foundMonster2->monster->state == Monster::inStock) {
+                    foundMonster2->monster->state = Monster::reserved;
+                    temp2->monster->state = Monster::reserved;
+
+                    if (client2->checkOrder() == true) {
+                        deliverOrders(client2);
+                        writeToOrderLog("[" + getTimestamp() + "] The order: " + client2->toString() + " has been delivered.");
+                        writeToGeneralLog("[" + getTimestamp() + "] The order: " + client2->toString() + " has been delivered.");
                     }
-                    reviewing = reviewing->next;
                 }
-                monster = monster->next;
+
+                temp2 = temp2->next;
             }
-            temp2 = temp2->next;
+            client2 = client2->next;
         }
     }
 
-    /*void print() {
-        Client* temp = firstClient;
-        while (temp != NULL) {
-            temp->print();
-            temp=temp->next;
-        }
-    }*/
 };
 
 #endif //DELIVERY_H
