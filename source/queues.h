@@ -101,7 +101,7 @@ struct MonsterQueue {
                 temp = temp->next;
             }
             MonsterNode* newMonster = new MonsterNode(monster);
-            newMonster->next = temp;
+            temp->next = newMonster;
         }
     }
 
