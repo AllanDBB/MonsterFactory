@@ -33,7 +33,8 @@ struct Monster{
 	enum State{
 		inProduction,
 		inStock,
-		delivered
+		delivered,
+		reserved,
 	};
 
 	State state;
