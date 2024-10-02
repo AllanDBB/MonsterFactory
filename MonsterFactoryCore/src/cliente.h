@@ -8,39 +8,61 @@
 #include "monster.h"
 #include "quality.h"
 
+struct StrNode {
+    StrNode* next;
+    string name;
+
+    enum State{
+        missing,
+        delivered,
+        reserved,
+    };
+
+    State state;
+
+    StrNode(string _name) {
+        name = _name;
+        state = StrNode::missing;
+        next = nullptr;
+    }
+};
+
 struct Client {
     string name;
     bool priority;
-    int orderNumber;
+    string orderNumber;
     Client* next;
-    MonsterNode* firstMonster;
+    StrNode* firstMonster;
+    int len;
 
-    Client(string _name, bool _priority, int _orderNumber) {
+    Client(string _name, bool _priority, string _orderNumber) {
         name = _name;
         priority = _priority;
         orderNumber = _orderNumber;
         firstMonster = NULL;
         next = NULL;
+        len = 0;
     }
 
 
-    void insert(Monster* monster) {
-        if (firstMonster == NULL) {
-            firstMonster = new MonsterNode(monster);
+    void insert(StrNode* monster) {
+        if (firstMonster == nullptr) {
+            firstMonster = monster;
         } else {
-            MonsterNode* temp = new MonsterNode(monster);
+            StrNode* temp = monster;
             temp->next = firstMonster;
             firstMonster = temp;
         }
+        len++;
     }
 
 
 
     bool checkOrder() { // Checks if all the monsters in the order are reserved
         bool complete = true;
-        MonsterNode* temp = firstMonster;
+        StrNode* temp = firstMonster;
         while (temp != NULL) {
-            if (temp->monster->state == 3)
+            if (temp->state == StrNode::reserved)
                 temp = temp->next;
             else
                 complete = false;
@@ -49,13 +71,14 @@ struct Client {
     }
 
     string toString() {
-        MonsterNode* temp = firstMonster;
+        StrNode* temp = firstMonster;
+
         string order = "";
         while (temp != NULL) {
-            order = order + temp->monster->type + ", ";
+            order = order + temp->name + ", ";
             temp = temp->next;
         }
-        return "Name: " + name + " Order number: " + to_string(orderNumber) + " Priority: " + (priority ? "With priority" : "Without priority") + " Order: " + order;
+        return "Name: " + name + " Order number: " + (orderNumber) + " Priority: " + (priority ? "With priority" : "Without priority") + " Order: " + order;
     }
 };
 

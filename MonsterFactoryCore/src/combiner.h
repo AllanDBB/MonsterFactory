@@ -60,10 +60,16 @@ struct Combiner{
 
 		Monster* newMonster = new Monster(combinationResult, energy->peek() + ", " + material->peek() + ", " + evil->peek(), temp);
 
-		if (temp)
+		if (temp) {
 			toBaking->enqueue(newMonster);
-		else
+			writeToQueue("["+getTimestamp()+"] Monster "+newMonster->tostring()+" was enqueued.");
+			writeToGeneralLog("["+getTimestamp()+"] Monster "+newMonster->tostring()+" was enqueued.");
+		}
+		else {
 			garbage->insert(newMonster);
+			writeToGarbageCollectorLog("[" + getTimestamp() + "] The monster " +newMonster->tostring()+" entered because it was GOOD.");
+			writeToGeneralLog("[" + getTimestamp() + "] The monster " +newMonster->tostring()+ " entered the garbage collector because it was GOOD.");
+		}
 
 		evil->dequeue();
 		energy->dequeue();

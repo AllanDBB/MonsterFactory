@@ -71,10 +71,12 @@ struct MonsterNode {
 
     Monster* monster;
     MonsterNode* next;
+    MonsterNode* prev;
 
     MonsterNode(Monster* _monster) {
         monster = _monster;
         next = nullptr;
+        prev = nullptr;
     };
 
 };
@@ -103,6 +105,7 @@ struct MonsterQueue {
             MonsterNode* newMonster = new MonsterNode(monster);
             temp->next = newMonster;
         }
+
     }
 
     Monster* dequeue() {
@@ -110,6 +113,7 @@ struct MonsterQueue {
             return NULL;
         else {
             MonsterNode* temp = first;
+
             first = first->next;
             temp->next = NULL;
             return temp->monster;
@@ -122,6 +126,8 @@ struct MonsterQueue {
 
         return first->monster->type;
     }
+
+
 };
 
 

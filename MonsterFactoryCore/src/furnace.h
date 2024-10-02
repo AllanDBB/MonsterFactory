@@ -35,6 +35,7 @@ struct Furnace{
 
     bool isComplete(){
         // Check if should be with . instead of ->.
+
         return tray1->isComplete() && tray2->isComplete() && tray3->isComplete() && tray4->isComplete();
     }
 
@@ -45,21 +46,29 @@ struct Furnace{
 
         if (!(tray1->isComplete())){
             tray1->add(monster);
+            writeToFurnace("["+getTimestamp()+"] Monster"+monster->tostring()+" added to tray 1." );
+            writeToGeneralLog("["+getTimestamp()+"] Monster"+monster->tostring()+" added to tray 1." );
             return;
         }
 
         if (!(tray2->isComplete())){
             tray2->add(monster);
+            writeToFurnace("["+getTimestamp()+"] Monster"+monster->tostring()+" added to tray 2." );
+            writeToGeneralLog("["+getTimestamp()+"] Monster"+monster->tostring()+" added to tray 2." );
             return;
         }
 
         if (!(tray3->isComplete())){
             tray3->add(monster);
+            writeToFurnace("["+getTimestamp()+"] Monster"+monster->tostring()+" added to tray 3." );
+            writeToGeneralLog("["+getTimestamp()+"] Monster"+monster->tostring()+" added to tray 3." );
             return;
         }
 
         if (!(tray4->isComplete())){
             tray4->add(monster);
+            writeToFurnace("["+getTimestamp()+"] Monster"+monster->tostring()+" added to tray 4." );
+            writeToGeneralLog("["+getTimestamp()+"] Monster"+monster->tostring()+" added to tray 4." );
             return;
         }
     }
@@ -69,24 +78,33 @@ struct Furnace{
 
         while(tray1->length != 0 && tray1->inProduction == true){
             temp = tray1->pop();
+            writeToFurnace("["+getTimestamp()+"] Monster "+ temp->tostring()+" emptied from tray 1." );
+            writeToGeneralLog("["+getTimestamp()+"] Monster "+ temp->tostring()+" emptied from tray 1." );
             toQuality->enqueue(temp);
         }
 
         while(tray2->length != 0 && tray2->inProduction == true){
             temp = tray2->pop();
+            writeToFurnace("["+getTimestamp()+"] Monster "+ temp->tostring()+" emptied from tray 2." );
+            writeToGeneralLog("["+getTimestamp()+"] Monster "+ temp->tostring()+" emptied from tray 2." );
             toQuality->enqueue(temp);
         }
         while(tray3->length != 0 && tray3->inProduction == true){
             temp = tray3->pop();
+            writeToFurnace("["+getTimestamp()+"] Monster "+ temp->tostring()+" emptied from tray 3." );
+            writeToGeneralLog("["+getTimestamp()+"] Monster "+ temp->tostring()+" emptied from tray 3." );
             toQuality->enqueue(temp);
         }
         while(tray4->length != 0 && tray4->inProduction == true){
             temp = tray4->pop();
+            writeToFurnace("["+getTimestamp()+"] Monster "+ temp->tostring()+" emptied from tray 4." );
+            writeToGeneralLog("["+getTimestamp()+"] Monster "+ temp->tostring()+" emptied from tray 4." );
             toQuality->enqueue(temp);
         }
     };
 
     void playTray(int tray){
+
 
         switch(tray){
             case 1:

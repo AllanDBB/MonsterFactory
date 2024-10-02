@@ -1,12 +1,78 @@
 #include <iostream>
 #include <bits/stdc++.h>
 // Files:
+#include "src/logFunctions.cpp"
+#include "src/sources.h"
+#include "src/combiner.h"
+#include "src/delivery.h"
+#include "src/furnace.h"
+#include "src/quality.h"
 
-#include "sources.h"
-#include "combiner.h"
-#include "delivery.h"
-#include "furnace.h"
-#include "quality.h"
+using namespace std;
+
+namespace fs = filesystem;
+
+
+
+void readFiles(Delivery * requests) {
+    string folder = "MonsterFactoryCore/orders";
+    for (const auto& in : fs::directory_iterator(folder)) {
+        if (in.is_regular_file()) {
+            string path = in.path().string();
+            ifstream file(path);
+            string line;
+
+            if (file.is_open()) {
+                cout << "Leyendo archivo: " << path << endl;
+                string name="";
+                if (getline(file, line)) {
+                    name = line;
+                }
+                bool priority=false;
+                if (getline(file, line)) {
+                    if (line == "1st PROGRA") {
+                        priority = true;
+                    }
+                }
+                string number ="";
+                if (getline(file, line)) {
+                    number = line;
+                }
+                Client * client = new Client(name,priority,number);
+
+
+
+                while (getline(file, line)) {
+
+                    if (line == "") {
+                        break;
+                    }
+
+                    StrNode* monster= new StrNode(line);
+                    client->insert(monster);
+
+                };
+
+                if (priority==true) {
+                    requests->PriorityClientQueue->enqueue(client);
+
+                } else {
+                    requests->NormalClientQueue->enqueue(client);
+
+                }
+
+
+                file.close();
+            } else {
+                cerr << "No se pudo abrir el archivo: " << path << endl;
+            }
+
+            cout << "---------------------" << endl;
+        }
+    }
+}
+
+
 
 int main() {
     srand(time(0));
@@ -84,12 +150,16 @@ int main() {
 
     Storage * storage = new Storage();
     GarbageCollector * garbage = new GarbageCollector();
-    Quality * quality = new Quality(storage, garbage, toQuality);
+    Quality quality(storage, garbage, toQuality);
 
-    quality->activate();
+    quality.activate();
 
-    Delivery * delivery = new Delivery(storage);
-    leerArchivos(delivery);
+
+    ClientQueue * PriorityClientQueue = new ClientQueue();
+    ClientQueue * NormalClientQueue = new ClientQueue();
+    Delivery * delivery = new Delivery(storage,NormalClientQueue,PriorityClientQueue);
+
+    readFiles(delivery);
     delivery->activate();
 
 

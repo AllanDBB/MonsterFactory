@@ -9,20 +9,28 @@
 
 using namespace std;
 
+
 struct GarbageCollector {
     MonsterNode* first;
+    MonsterNode* last;
 
     GarbageCollector() {
         first = nullptr;
+        last = nullptr;
     }
 
     void insert(Monster* monster) {
-        if (first == nullptr) {
-            first = new MonsterNode(monster);
+        MonsterNode* newNode = new MonsterNode(monster);
+
+        if (last == nullptr) {
+
+            first = newNode;
+            last = newNode;
         } else {
-            MonsterNode* temp = new MonsterNode(monster);
-            temp->next = first;
-            first = temp;
+
+            last->next = newNode;
+            newNode->prev = last;
+            last = newNode;
         }
     }
 };

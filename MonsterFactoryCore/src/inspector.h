@@ -25,7 +25,7 @@ struct Inspector {
             return monster;
         }
 
-        return NULL;
+        return nullptr;
     }
 
     void inspect(Monster* monster, bool activated) {
