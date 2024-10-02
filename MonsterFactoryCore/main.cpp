@@ -21,25 +21,33 @@ void readFiles(Delivery * requests) {
             string path = in.path().string();
             ifstream file(path);
             string line;
-
+            string write = "["+ getTimestamp()+"] The order: ";
             if (file.is_open()) {
                 cout << "Leyendo archivo: " << path << endl;
                 string name="";
                 if (getline(file, line)) {
                     name = line;
+                    write += "Name: ";
+                    write += name;
                 }
                 bool priority=false;
                 if (getline(file, line)) {
+                    write += " Priority: ";
                     if (line == "1st PROGRA") {
                         priority = true;
+                        write+= "Yes";
+
                     }
+                    write+= " No";
                 }
                 string number ="";
                 if (getline(file, line)) {
                     number = line;
+                    write += " Number: ";
+                    write += number;
                 }
-                Client * client = new Client(name,priority,number);
 
+                write+=" of ";
 
 
                 while (getline(file, line)) {
@@ -47,19 +55,25 @@ void readFiles(Delivery * requests) {
                     if (line == "") {
                         break;
                     }
-
+                    Client * client = new Client(name,priority,number);
                     StrNode* monster= new StrNode(line);
                     client->insert(monster);
+                    write+= monster->name;
+                    write+= ", ";
+
+                    if (priority==true) {
+                        requests->PriorityClientQueue->enqueue(client);
+
+
+                    } else {
+                        requests->NormalClientQueue->enqueue(client);
+                    }
+
+
 
                 };
-
-                if (priority==true) {
-                    requests->PriorityClientQueue->enqueue(client);
-
-                } else {
-                    requests->NormalClientQueue->enqueue(client);
-
-                }
+                writeToGeneralLog(write);
+                writeToOrderLog(write);
 
 
                 file.close();
@@ -123,10 +137,10 @@ int main() {
     //cout << temp->type;
 
     MonsterQueue* toQuality = new MonsterQueue();
-    Furnace furnace(10, 1, 1, 1,1, toQuality);
+    Furnace furnace(10, 2, 2, 2,2, toQuality);
     int i = 0;
 
-    while(i<4) {
+    while(i<8) {
         materialSource.produce();
         energySource.produce();
         evilSource.produce();

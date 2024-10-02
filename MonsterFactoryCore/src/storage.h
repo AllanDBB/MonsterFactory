@@ -36,7 +36,7 @@ struct Storage {
     MonsterNode* findMonster(string monster) {
         MonsterNode * temp = first;
         while (temp != NULL) {
-            if (temp->monster->type == monster) {
+            if (temp->monster->type == monster && temp->monster->state == Monster::inStock) {
                 return temp;
             }
             temp = temp->next;

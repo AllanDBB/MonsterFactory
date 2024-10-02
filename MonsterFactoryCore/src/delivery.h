@@ -38,8 +38,23 @@ struct ClientQueue {
         else
             return false;
     }
-
     void enqueue(Client* client) {
+        if (isEmpty())
+            first = new ClientNode(client);
+
+        else {
+            ClientNode* temp = first;
+            while (temp->next != nullptr) {
+                temp = temp->next;
+            }
+            ClientNode* newClient = new ClientNode(client);
+            temp->next = newClient;
+        }
+
+    }
+
+
+    void enqueueWithMsg(Client* client) {
         if (isEmpty())
             first = new ClientNode(client);
 
@@ -100,18 +115,17 @@ struct Delivery {
 
     }
 
-    bool check(string numOrder, ClientQueue * queue) {
+    bool check(string numOrder, ClientQueue * queue) { //true si ya no hay mas pedidos pendientes de esa orden
         ClientNode * client = queue->first;
         while (client != nullptr) {
             if (client->client->orderNumber == numOrder) {
-                if (client->client->firstMonster->state == StrNode::reserved) {
-                    client = client -> next;
-                } else {
-                    return false;
-                }
+                cout<<"flase"<<endl;
+                return false;
             }
 
+            client = client->next;
         }
+        cout<<"true"<<endl;
         return true;
     }
 
@@ -249,63 +263,101 @@ struct Delivery {
 
 
     //esta versión se encicla eternamente, ese es mi mayor problema
-    void activate() {
-        ClientQueue * again = new ClientQueue();
-        Client * client = PriorityClientQueue->dequeue();
-        while (client != nullptr) {
-            StrNode* temp = client->firstMonster;
-            while (temp != nullptr) {
-                MonsterNode * foundMonster = storage->findMonster(temp->name);
-                if (foundMonster != nullptr) {
-                    foundMonster->monster->state = Monster::reserved;
-                    temp->state = StrNode::reserved;
 
-
-                    if (client->checkOrder() == true) {
-                        deliverOrders(client);
-                        writeToDelivery("[" + getTimestamp() + "] The order: " + client->toString() + " has been delivered.");
-                        writeToGeneralLog("[" + getTimestamp() + "] The order: " + client->toString() + " has been delivered.");
-                    } else {
-                        again->enqueue(client);
-                    }
-                }
-                temp = temp->next;
-            }
-            client = PriorityClientQueue->dequeue();
+    void clearQueue(ClientQueue *queue) {
+        Client *current = queue->dequeue();
+        while (current != nullptr) {
+            delete current;
+            current = queue->dequeue();
         }
-
-        PriorityClientQueue = again;
-        again->first = nullptr;
-
-
-
-        ClientQueue * again2 = new ClientQueue();
-        Client * client2 = NormalClientQueue->dequeue();
-        while (client2 != nullptr) {
-            StrNode* temp2 = client2->firstMonster;
-            while (temp2 != nullptr) {
-                MonsterNode * foundMonster = storage->findMonster(temp2->name);
-                if (foundMonster != nullptr) {
-                    foundMonster->monster->state = Monster::reserved;
-                    temp2->state = StrNode::reserved;
-
-
-                    if (client2->checkOrder() == true) {
-                        deliverOrders(client2);
-                        writeToDelivery("[" + getTimestamp() + "] The order: " + client2->toString() + " has been delivered.");
-                        writeToGeneralLog("[" + getTimestamp() + "] The order: " + client2->toString() + " has been delivered.");
-                    } else {
-                        again2->enqueue(client2);
-                    }
-                }
-                temp2 = temp2->next;
-            }
-            client2 = NormalClientQueue->dequeue();
-        }
-
-        NormalClientQueue = again;
-        again2->first = nullptr;
     }
+
+void activate() {
+    bool first = true;
+    Client* firstOnQueuePriority = nullptr;
+    Client* client = PriorityClientQueue->dequeue();
+
+    while (client != nullptr) {
+        if (client == firstOnQueuePriority) {
+            break;
+        }
+
+        StrNode* temp = client->firstMonster;
+        bool reserved = false;
+        bool allReserved = true;
+
+
+        while (temp != nullptr) {
+            MonsterNode* monster = storage->findMonster(temp->name);
+            if (monster != nullptr) {
+                monster->monster->state = Monster::reserved;
+                temp->state = StrNode::reserved;
+                reserved = true;
+            } else {
+                allReserved = false;
+            }
+            temp = temp->next;
+        }
+
+        if (allReserved && check(client->orderNumber, PriorityClientQueue)) {
+            writeToGeneralLog("[" + getTimestamp() + "] Order " + client->orderNumber + " was delivered.");
+        } else {
+            if (first) {
+                firstOnQueuePriority = client;
+                first = false;
+            }
+            if (!reserved) {
+                PriorityClientQueue->enqueue(client);
+            }
+        }
+
+        client = PriorityClientQueue->dequeue();
+    }
+
+
+    bool first2 = true;
+    Client* firstOnQueueNormal = nullptr;
+    Client* client2 = NormalClientQueue->dequeue();
+
+    while (client2 != nullptr) {
+        if (client2 == firstOnQueueNormal) {
+            break;
+        }
+
+        StrNode* temp2 = client2->firstMonster;
+        bool reserved = false;
+        bool allReserved = true;
+
+
+        while (temp2 != nullptr) {
+            MonsterNode* monster2 = storage->findMonster(temp2->name);
+            if (monster2 != nullptr) {
+                monster2->monster->state = Monster::reserved;
+                temp2->state = StrNode::reserved;
+                reserved = true;
+            } else {
+                allReserved = false;
+            }
+            temp2 = temp2->next;
+        }
+
+        if (allReserved && check(client2->orderNumber, NormalClientQueue)) {
+            writeToGeneralLog("[" + getTimestamp() + "] Order " + client2->orderNumber + " was delivered.");
+        } else {
+            if (first2) {
+                firstOnQueueNormal = client2;
+                first2 = false;
+            }
+            if (!reserved) {
+                NormalClientQueue->enqueue(client2);
+            }
+        }
+
+        client2 = NormalClientQueue->dequeue();
+    }
+}
+
+
 };
 
 #endif //DELIVERY_H

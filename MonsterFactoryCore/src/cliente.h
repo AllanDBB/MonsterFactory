@@ -59,15 +59,19 @@ struct Client {
 
 
     bool checkOrder() { // Checks if all the monsters in the order are reserved
-        bool complete = true;
         StrNode* temp = firstMonster;
         while (temp != NULL) {
-            if (temp->state == StrNode::reserved)
+            cout<<temp->name<<" ";
+            if (temp->state == StrNode::reserved) {
                 temp = temp->next;
-            else
-                complete = false;
+                cout<<temp->name<<" ";
+            }
+            else {
+                cout<<"false"<<endl;
+                return false;
+            }
         }
-        return complete;
+        return true;
     }
 
     string toString() {
