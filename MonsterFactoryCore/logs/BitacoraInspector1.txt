@@ -1,41 +1,101 @@
-[2024-10-02 10:06:17] The monster Monstruo 170610021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
-[2024-10-02 10:07:45] The monster Monstruo 450710021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
-[2024-10-02 10:07:45] The monster Monstruo 450710021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
-[2024-10-02 10:10:39] The monster Monstruo 381010021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
-[2024-10-02 10:11:09] The monster Monstruo 91110021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
-[2024-10-02 10:21:36] The monster Monstruo 362110021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
-[2024-10-02 10:23:11] The monster Monstruo 112310021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
-[2024-10-02 10:23:11] The monster Monstruo 112310021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
-[2024-10-02 10:25:18] The monster Monstruo 182510021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
-[2024-10-02 10:25:18] The monster Monstruo 182510021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
-[2024-10-02 10:27:08] The monster Monstruo 82710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
-[2024-10-02 10:27:08] The monster Monstruo 82710021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
-[2024-10-02 10:27:48] The monster Monstruo 482710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
-[2024-10-02 10:34:11] The monster Monstruo 113410021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
-[2024-10-02 10:34:11] The monster Monstruo 113410021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
-[2024-10-02 10:37:03] The monster Monstruo 23710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
-[2024-10-02 10:37:03] The monster Monstruo 33710021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
-[2024-10-02 10:55:32] The monster Monstruo 325510021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
-[2024-10-02 10:55:32] The monster Monstruo 325510021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
-[2024-10-02 11:08:44] The monster Monstruo 440811021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
-[2024-10-02 11:21:04] The monster Monstruo 42111021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
-[2024-10-02 11:25:27] The monster Monstruo 262511021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
-[2024-10-02 11:29:33] The monster Monstruo 332911021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
-[2024-10-02 11:29:33] The monster Monstruo 332911021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
-[2024-10-02 11:36:49] The monster Monstruo 493611021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
-[2024-10-02 11:36:49] The monster Monstruo 493611021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
-[2024-10-02 11:46:04] The monster Monstruo 44611021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
-[2024-10-02 11:47:37] The monster Monstruo 374711021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
-[2024-10-02 11:48:05] The monster Monstruo 54811021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
-[2024-10-02 11:48:33] The monster Monstruo 334811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
-[2024-10-02 11:52:04] The monster Monstruo 45211021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
-[2024-10-02 11:52:29] The monster Monstruo 295211021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
-[2024-10-02 11:52:52] The monster Monstruo 525211021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
-[2024-10-02 11:53:40] The monster Monstruo 395311021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
-[2024-10-02 11:53:40] The monster Monstruo 395311021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
-[2024-10-02 11:58:20] The monster Monstruo 205811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
-[2024-10-02 11:58:20] The monster Monstruo 205811021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
-[2024-10-02 11:58:20] The monster Monstruo 205811021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
-[2024-10-02 12:01:20] The monster Monstruo 200112021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
-[2024-10-02 12:02:25] The monster Monstruo 250212021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
-[2024-10-02 12:44:07] The monster Monstruo 74412021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 02:32:26 - [2024-10-10 02:32:26] The monster Monstruo 503102101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 03:08:38 - [2024-10-10 03:08:38] The monster Monstruo 530703101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 03:08:38 - [2024-10-10 03:08:38] The monster Monstruo 803101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 03:09:10 - [2024-10-10 03:09:10] The monster Monstruo 460803101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 03:11:11 - [2024-10-10 03:11:11] The monster Monstruo 341003101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 03:12:51 - [2024-10-10 03:12:51] The monster Monstruo 61203101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 03:12:51 - [2024-10-10 03:12:51] The monster Monstruo 81203101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 03:14:22 - [2024-10-10 03:14:22] The monster Monstruo 501303101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 03:16:04 - [2024-10-10 03:16:04] The monster Monstruo 221503101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 03:16:04 - [2024-10-10 03:16:04] The monster Monstruo 331503101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 03:19:21 - [2024-10-10 03:19:21] The monster Monstruo 241803101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 03:19:21 - [2024-10-10 03:19:21] The monster Monstruo 41903101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 03:20:03 - [2024-10-10 03:20:03] The monster Monstruo 291903101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 03:20:03 - [2024-10-10 03:20:03] The monster Monstruo 321903101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 03:22:46 - [2024-10-10 03:22:46] The monster Monstruo 162203101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 03:23:32 - [2024-10-10 03:23:32] The monster Monstruo 142303101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 09:46:56 - [2024-10-10 09:46:56] The monster Monstruo 144609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 09:46:56 - [2024-10-10 09:46:56] The monster Monstruo 384609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 09:47:32 - [2024-10-10 09:47:32] The monster Monstruo 144709101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 09:48:17 - [2024-10-10 09:48:17] The monster Monstruo 354709101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 09:48:17 - [2024-10-10 09:48:17] The monster Monstruo 384709101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 09:48:17 - [2024-10-10 09:48:17] The monster Monstruo 564709101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 09:52:55 - [2024-10-10 09:52:55] The monster Monstruo 375209101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 09:53:57 - [2024-10-10 09:53:57] The monster Monstruo 425209101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 09:54:51 - [2024-10-10 09:54:51] The monster Monstruo 135409101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 09:55:29 - [2024-10-10 09:55:29] The monster Monstruo 145509101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 09:56:16 - [2024-10-10 09:56:16] The monster Monstruo 5609101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 09:57:02 - [2024-10-10 09:57:02] The monster Monstruo 325609101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 09:57:02 - [2024-10-10 09:57:02] The monster Monstruo 475609101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 10:22:40 - [2024-10-10 10:22:40] The monster Monstruo 72210101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 10:22:40 - [2024-10-10 10:22:40] The monster Monstruo 182210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 10:23:14 - [2024-10-10 10:23:14] The monster Monstruo 442210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 10:23:14 - [2024-10-10 10:23:14] The monster Monstruo 502210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 10:25:19 - [2024-10-10 10:25:19] The monster Monstruo 52510101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 10:26:11 - [2024-10-10 10:26:11] The monster Monstruo 302510101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 10:28:50 - [2024-10-10 10:28:50] The monster Monstruo 92810101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 10:28:50 - [2024-10-10 10:28:50] The monster Monstruo 182810101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 10:29:32 - [2024-10-10 10:29:32] The monster Monstruo 392810101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 10:29:32 - [2024-10-10 10:29:32] The monster Monstruo 522810101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 10:29:32 - [2024-10-10 10:29:32] The monster Monstruo 12910101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 10:29:32 - [2024-10-10 10:29:32] The monster Monstruo 132910101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 10:30:16 - [2024-10-10 10:30:16] The monster Monstruo 342910101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 10:30:16 - [2024-10-10 10:30:16] The monster Monstruo 452910101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 10:44:03 - [2024-10-10 10:44:03] The monster Monstruo 474310101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 10:52:20 - [2024-10-10 10:52:20] The monster Monstruo 335110101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 10:54:50 - [2024-10-10 10:54:50] The monster Monstruo 445210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 10:56:25 - [2024-10-10 10:56:25] The monster Monstruo 275510101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 10:59:46 - [2024-10-10 10:59:46] The monster Monstruo 175910101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 11:01:45 - [2024-10-10 11:01:45] The monster Monstruo 320111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 11:05:21 - [2024-10-10 11:05:21] The monster Monstruo 440411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 11:15:20 - [2024-10-10 11:15:20] The monster Monstruo 561411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 11:24:16 - [2024-10-10 11:24:16] The monster Monstruo 502311101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 11:30:49 - [2024-10-10 11:30:49] The monster Monstruo 223011101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 11:41:23 - [2024-10-10 11:41:23] The monster Monstruo 4111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 11:44:06 - [2024-10-10 11:44:06] The monster Monstruo 414311101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 11:48:16 - [2024-10-10 11:48:16] The monster Monstruo 264711101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 11:48:48 - [2024-10-10 11:48:48] The monster Monstruo 304811101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 11:51:37 - [2024-10-10 11:51:37] The monster Monstruo 135111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 11:51:37 - [2024-10-10 11:51:37] The monster Monstruo 145111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 11:51:37 - [2024-10-10 11:51:37] The monster Monstruo 155111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 11:56:41 - [2024-10-10 11:56:41] The monster Monstruo 585511101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:01:47 - [2024-10-10 12:01:47] The monster Monstruo 70112101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 12:01:47 - [2024-10-10 12:01:47] The monster Monstruo 220112101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:06:35 - [2024-10-10 12:06:35] The monster Monstruo 10612101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:06:35 - [2024-10-10 12:06:35] The monster Monstruo 140612101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:09:11 - [2024-10-10 12:09:11] The monster Monstruo 380812101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 12:09:35 - [2024-10-10 12:09:35] The monster Monstruo 180912101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:09:59 - [2024-10-10 12:09:59] The monster Monstruo 390912101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:09:59 - [2024-10-10 12:09:59] The monster Monstruo 420912101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 12:11:14 - [2024-10-10 12:11:14] The monster Monstruo 551012101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 12:12:30 - [2024-10-10 12:12:30] The monster Monstruo 171212101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:13:02 - [2024-10-10 12:13:02] The monster Monstruo 321212101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:13:02 - [2024-10-10 12:13:02] The monster Monstruo 401212101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 12:13:02 - [2024-10-10 12:13:02] The monster Monstruo 431212101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 12:13:02 - [2024-10-10 12:13:02] The monster Monstruo 441212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 12:13:02 - [2024-10-10 12:13:02] The monster Monstruo 471212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 12:13:02 - [2024-10-10 12:13:02] The monster Monstruo 481212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 12:13:26 - [2024-10-10 12:13:26] The monster Monstruo 511212101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:13:26 - [2024-10-10 12:13:26] The monster Monstruo 21312101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 12:13:26 - [2024-10-10 12:13:26] The monster Monstruo 41312101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:13:26 - [2024-10-10 12:13:26] The monster Monstruo 81312101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 12:13:26 - [2024-10-10 12:13:26] The monster Monstruo 91312101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:13:26 - [2024-10-10 12:13:26] The monster Monstruo 111312101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 12:13:52 - [2024-10-10 12:13:52] The monster Monstruo 121312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 12:13:52 - [2024-10-10 12:13:52] The monster Monstruo 261312101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 12:13:52 - [2024-10-10 12:13:52] The monster Monstruo 281312101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:13:52 - [2024-10-10 12:13:52] The monster Monstruo 321312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 12:13:52 - [2024-10-10 12:13:52] The monster Monstruo 371312101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 12:13:52 - [2024-10-10 12:13:52] The monster Monstruo 391312101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 12:14:31 - [2024-10-10 12:14:31] The monster Monstruo 401312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 12:14:31 - [2024-10-10 12:14:31] The monster Monstruo 541312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica has been discarded.
+2024-10-10 12:14:31 - [2024-10-10 12:14:31] The monster Monstruo 581312101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada has been discarded.
+2024-10-10 12:14:31 - [2024-10-10 12:14:31] The monster Monstruo 141412101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.
+2024-10-10 12:14:31 - [2024-10-10 12:14:31] The monster Monstruo 151412101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:14:31 - [2024-10-10 12:14:31] The monster Monstruo 171412101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada has been discarded.
+2024-10-10 12:15:03 - [2024-10-10 12:15:03] The monster Monstruo 201412101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica has been discarded.
+2024-10-10 12:15:03 - [2024-10-10 12:15:03] The monster Monstruo 321412101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:15:03 - [2024-10-10 12:15:03] The monster Monstruo 331412101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:15:03 - [2024-10-10 12:15:03] The monster Monstruo 451412101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:15:03 - [2024-10-10 12:15:03] The monster Monstruo 481412101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica has been discarded.
+2024-10-10 12:15:03 - [2024-10-10 12:15:03] The monster Monstruo 501412101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta has been discarded.

@@ -1,3 +1,0 @@
-C:/Users/natal/Desktop/sage/MonsterFactory/cmake-build-debug/CMakeFiles/MonsterFactory.dir
-C:/Users/natal/Desktop/sage/MonsterFactory/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/natal/Desktop/sage/MonsterFactory/cmake-build-debug/CMakeFiles/rebuild_cache.dir

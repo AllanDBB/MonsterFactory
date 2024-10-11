@@ -1,297 +1,831 @@
-[2024-10-02 09:45:41] Monster Monstruo 414509021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 09:45:41] Monster Monstruo 414509021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 09:45:41] Monster Monstruo 414509021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 09:45:41] Monster Monstruo 414509021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 09:45:41] Monster Monstruo 414509021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
-[2024-10-02 10:06:17] Monster Monstruo 170610021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:06:17] Monster Monstruo 170610021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:06:17] Monster Monstruo 170610021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:06:17] Monster Monstruo 170610021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:06:17] Monster Monstruo 170610021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 10:07:45] Monster Monstruo 450710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:07:45] Monster Monstruo 450710021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:07:45] Monster Monstruo 450710021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:07:45] Monster Monstruo 450710021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:07:45] Monster Monstruo 450710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 10:08:55] Monster Monstruo 550810021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:08:55] Monster Monstruo 550810021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:08:55] Monster Monstruo 550810021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:08:55] Monster Monstruo 550810021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:08:55] Monster Monstruo 550810021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 10:10:38] Monster Monstruo 381010021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:10:38] Monster Monstruo 381010021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:10:38] Monster Monstruo 381010021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:10:39] Monster Monstruo 391010021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 10:10:39] Monster Monstruo 381010021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
-[2024-10-02 10:11:09] Monster Monstruo 91110021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 10:11:09] Monster Monstruo 91110021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:11:09] Monster Monstruo 91110021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:11:09] Monster Monstruo 91110021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:11:09] Monster Monstruo 91110021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
-[2024-10-02 10:17:34] Monster Monstruo 341710021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:17:34] Monster Monstruo 341710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:17:34] Monster Monstruo 341710021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:17:34] Monster Monstruo 341710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:17:34] Monster Monstruo 341710021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
-[2024-10-02 10:18:12] Monster Monstruo 121810021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:18:12] Monster Monstruo 121810021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:18:12] Monster Monstruo 121810021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:18:12] Monster Monstruo 121810021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:18:12] Monster Monstruo 121810021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
-[2024-10-02 10:19:59] Monster Monstruo 591910021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:19:59] Monster Monstruo 591910021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:19:59] Monster Monstruo 591910021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:19:59] Monster Monstruo 591910021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:19:59] Monster Monstruo 591910021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 10:21:36] Monster Monstruo 362110021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:21:36] Monster Monstruo 362110021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 10:21:36] Monster Monstruo 362110021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:21:36] Monster Monstruo 362110021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:21:36] Monster Monstruo 362110021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
-[2024-10-02 10:23:11] Monster Monstruo 112310021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:23:11] Monster Monstruo 112310021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:23:11] Monster Monstruo 112310021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 10:23:11] Monster Monstruo 112310021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:23:11] Monster Monstruo 112310021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
-[2024-10-02 10:25:18] Monster Monstruo 182510021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:25:18] Monster Monstruo 182510021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:25:18] Monster Monstruo 182510021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:25:18] Monster Monstruo 182510021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:25:18] Monster Monstruo 182510021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
-[2024-10-02 10:27:08] Monster Monstruo 82710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:27:08] Monster Monstruo 82710021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:27:08] Monster Monstruo 82710021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:27:08] Monster Monstruo 82710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:27:08] Monster Monstruo 82710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 10:27:48] Monster Monstruo 482710021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:27:48] Monster Monstruo 482710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:27:48] Monster Monstruo 482710021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:27:48] Monster Monstruo 482710021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 10:27:48] Monster Monstruo 482710021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
-[2024-10-02 10:30:59] Monster Monstruo 593010021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:30:59] Monster Monstruo 593010021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:30:59] Monster Monstruo 593010021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:30:59] Monster Monstruo 593010021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:30:59] Monster Monstruo 593010021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
-[2024-10-02 10:34:11] Monster Monstruo 113410021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:34:11] Monster Monstruo 113410021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:34:11] Monster Monstruo 113410021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:34:11] Monster Monstruo 113410021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:34:11] Monster Monstruo 113410021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
-[2024-10-02 10:37:02] Monster Monstruo 23710021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 10:37:02] Monster Monstruo 23710021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:37:03] Monster Monstruo 33710021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 10:37:03] Monster Monstruo 33710021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:37:03] Monster Monstruo 23710021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 10:55:32] Monster Monstruo 325510021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 10:55:32] Monster Monstruo 325510021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:55:32] Monster Monstruo 325510021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 10:55:32] Monster Monstruo 325510021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 10:55:32] Monster Monstruo 325510021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
-[2024-10-02 11:08:44] Monster Monstruo 440811021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:08:44] Monster Monstruo 440811021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:08:44] Monster Monstruo 440811021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:08:44] Monster Monstruo 440811021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:08:44] Monster Monstruo 440811021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
-[2024-10-02 11:12:08] Monster Monstruo 81211021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:12:08] Monster Monstruo 81211021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:12:08] Monster Monstruo 81211021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:12:08] Monster Monstruo 81211021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:12:08] Monster Monstruo 81211021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
-[2024-10-02 11:17:26] Monster Monstruo 261711021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:17:26] Monster Monstruo 261711021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:17:27] Monster Monstruo 271711021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:17:27] Monster Monstruo 271711021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:17:27] Monster Monstruo 261711021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
-[2024-10-02 11:20:30] Monster Monstruo 302011021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:20:30] Monster Monstruo 302011021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:20:30] Monster Monstruo 302011021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:20:30] Monster Monstruo 302011021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:20:30] Monster Monstruo 302011021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
-[2024-10-02 11:21:04] Monster Monstruo 42111021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:21:04] Monster Monstruo 42111021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:21:04] Monster Monstruo 42111021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:21:04] Monster Monstruo 42111021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:21:04] Monster Monstruo 42111021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
-[2024-10-02 11:23:10] Monster Monstruo 102311021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:23:10] Monster Monstruo 102311021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:23:10] Monster Monstruo 102311021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:23:10] Monster Monstruo 102311021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:23:10] Monster Monstruo 102311021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 11:25:26] Monster Monstruo 262511021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:25:26] Monster Monstruo 262511021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:25:26] Monster Monstruo 262511021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:25:26] Monster Monstruo 262511021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:25:27] Monster Monstruo 262511021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 11:28:31] Monster Monstruo 312811021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:28:31] Monster Monstruo 312811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:28:31] Monster Monstruo 312811021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:28:31] Monster Monstruo 312811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:28:31] Monster Monstruo 312811021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
-[2024-10-02 11:29:33] Monster Monstruo 332911021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:29:33] Monster Monstruo 332911021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:29:33] Monster Monstruo 332911021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:29:33] Monster Monstruo 332911021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:29:33] Monster Monstruo 332911021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 11:36:49] Monster Monstruo 493611021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:36:49] Monster Monstruo 493611021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:36:49] Monster Monstruo 493611021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:36:49] Monster Monstruo 493611021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:36:49] Monster Monstruo 493611021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 11:37:39] Monster Monstruo 393711021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:37:39] Monster Monstruo 393711021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:37:39] Monster Monstruo 393711021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:37:39] Monster Monstruo 393711021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:37:39] Monster Monstruo 393711021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 11:39:00] Monster Monstruo 3911021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:39:00] Monster Monstruo 3911021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:39:00] Monster Monstruo 3911021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:39:00] Monster Monstruo 3911021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:39:00] Monster Monstruo 3911021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 11:39:11] Monster Monstruo 113911021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:39:11] Monster Monstruo 113911021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:39:11] Monster Monstruo 113911021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:39:11] Monster Monstruo 113911021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:39:11] Monster Monstruo 113911021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 11:43:32] Monster Monstruo 324311021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:43:32] Monster Monstruo 324311021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:43:32] Monster Monstruo 324311021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:43:32] Monster Monstruo 324311021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:43:33] Monster Monstruo 324311021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
-[2024-10-02 11:44:02] Monster Monstruo 24411021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:44:02] Monster Monstruo 24411021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:44:02] Monster Monstruo 24411021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:44:02] Monster Monstruo 24411021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:44:02] Monster Monstruo 24411021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
-[2024-10-02 11:45:36] Monster Monstruo 364511021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:45:36] Monster Monstruo 364511021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:45:36] Monster Monstruo 364511021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:45:36] Monster Monstruo 364511021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:45:36] Monster Monstruo 364511021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
-[2024-10-02 11:46:04] Monster Monstruo 44611021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:46:04] Monster Monstruo 44611021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:46:04] Monster Monstruo 44611021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:46:04] Monster Monstruo 44611021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:46:04] Monster Monstruo 44611021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
-[2024-10-02 11:47:23] Monster Monstruo 234711021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:47:23] Monster Monstruo 234711021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:47:23] Monster Monstruo 234711021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:47:23] Monster Monstruo 234711021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:47:23] Monster Monstruo 234711021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 11:47:37] Monster Monstruo 374711021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:47:37] Monster Monstruo 374711021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:47:37] Monster Monstruo 374711021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:47:37] Monster Monstruo 374711021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:47:37] Monster Monstruo 374711021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 11:47:54] Monster Monstruo 544711021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:47:54] Monster Monstruo 544711021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:47:54] Monster Monstruo 544711021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:47:54] Monster Monstruo 544711021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:47:54] Monster Monstruo 544711021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 11:48:05] Monster Monstruo 54811021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:48:05] Monster Monstruo 54811021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:48:05] Monster Monstruo 54811021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:48:05] Monster Monstruo 54811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:48:05] Monster Monstruo 54811021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 11:48:33] Monster Monstruo 334811021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:48:33] Monster Monstruo 334811021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:48:33] Monster Monstruo 334811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:48:33] Monster Monstruo 334811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:48:33] Monster Monstruo 334811021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 11:52:04] Monster Monstruo 45211021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:52:04] Monster Monstruo 45211021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:52:04] Monster Monstruo 45211021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:52:04] Monster Monstruo 45211021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:52:04] Monster Monstruo 45211021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
-[2024-10-02 11:52:29] Monster Monstruo 295211021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:52:29] Monster Monstruo 295211021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:52:29] Monster Monstruo 295211021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:52:29] Monster Monstruo 295211021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:52:29] Monster Monstruo 295211021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 11:52:52] Monster Monstruo 525211021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:52:52] Monster Monstruo 525211021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:52:52] Monster Monstruo 525211021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:52:52] Monster Monstruo 525211021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:52:52] Monster Monstruo 525211021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
-[2024-10-02 11:53:10] Monster Monstruo 105311021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:53:10] Monster Monstruo 105311021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:53:10] Monster Monstruo 105311021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:53:10] Monster Monstruo 105311021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:53:10] Monster Monstruo 105311021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
-[2024-10-02 11:53:39] Monster Monstruo 395311021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 11:53:39] Monster Monstruo 395311021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:53:39] Monster Monstruo 395311021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:53:40] Monster Monstruo 405311021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:53:40] Monster Monstruo 395311021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 11:58:20] Monster Monstruo 205811021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 12:01:20] Monster Monstruo 200112021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:02:25] Monster Monstruo 250212021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 12:12:06] Monster Monstruo 61212021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:44:07] Monster Monstruo 74412021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:47:20] Monster Monstruo 204712021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
-[2024-10-02 12:48:20] Monster Monstruo 204812021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
-[2024-10-02 12:51:29] Monster Monstruo 295112021024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 03:10:23 - [2024-10-10 03:10:23] Monster Monstruo 231003101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:10:29 - [2024-10-10 03:10:29] Monster Monstruo 291003101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:10:30 - [2024-10-10 03:10:30] Monster Monstruo 301003101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:10:31 - [2024-10-10 03:10:31] Monster Monstruo 311003101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:10:32 - [2024-10-10 03:10:32] Monster Monstruo 321003101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:10:34 - [2024-10-10 03:10:34] Monster Monstruo 341003101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:10:44 - [2024-10-10 03:10:44] Monster Monstruo 441003101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:10:57 - [2024-10-10 03:10:57] Monster Monstruo 571003101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:11:11 - [2024-10-10 03:11:11] Monster Monstruo 231003101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 03:11:17 - [2024-10-10 03:11:17] Monster Monstruo 171103101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:11:33 - [2024-10-10 03:11:33] Monster Monstruo 331103101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:11:36 - [2024-10-10 03:11:36] Monster Monstruo 361103101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:11:38 - [2024-10-10 03:11:38] Monster Monstruo 381103101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:11:40 - [2024-10-10 03:11:40] Monster Monstruo 401103101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:11:47 - [2024-10-10 03:11:47] Monster Monstruo 471103101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:11:48 - [2024-10-10 03:11:48] Monster Monstruo 481103101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:11:52 - [2024-10-10 03:11:52] Monster Monstruo 521103101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:12:05 - [2024-10-10 03:12:05] Monster Monstruo 51203101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:12:05 - [2024-10-10 03:12:05] Monster Monstruo 171103101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 03:12:06 - [2024-10-10 03:12:06] Monster Monstruo 61203101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:12:08 - [2024-10-10 03:12:08] Monster Monstruo 81203101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:12:09 - [2024-10-10 03:12:09] Monster Monstruo 91203101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:12:12 - [2024-10-10 03:12:12] Monster Monstruo 121203101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:12:25 - [2024-10-10 03:12:25] Monster Monstruo 251203101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:12:35 - [2024-10-10 03:12:35] Monster Monstruo 351203101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:12:39 - [2024-10-10 03:12:39] Monster Monstruo 391203101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:12:40 - [2024-10-10 03:12:40] Monster Monstruo 401203101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:12:41 - [2024-10-10 03:12:41] Monster Monstruo 411203101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:12:51 - [2024-10-10 03:12:51] Monster Monstruo 51203101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 03:12:56 - [2024-10-10 03:12:56] Monster Monstruo 561203101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:12:58 - [2024-10-10 03:12:58] Monster Monstruo 581203101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:13:03 - [2024-10-10 03:13:03] Monster Monstruo 31303101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:13:09 - [2024-10-10 03:13:09] Monster Monstruo 91303101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:13:14 - [2024-10-10 03:13:14] Monster Monstruo 141303101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:13:19 - [2024-10-10 03:13:19] Monster Monstruo 191303101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:13:32 - [2024-10-10 03:13:32] Monster Monstruo 401203101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 03:13:40 - [2024-10-10 03:13:40] Monster Monstruo 401303101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:13:44 - [2024-10-10 03:13:44] Monster Monstruo 441303101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:13:50 - [2024-10-10 03:13:50] Monster Monstruo 501303101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:13:54 - [2024-10-10 03:13:54] Monster Monstruo 541303101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:13:55 - [2024-10-10 03:13:55] Monster Monstruo 551303101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:14:05 - [2024-10-10 03:14:05] Monster Monstruo 51403101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:14:06 - [2024-10-10 03:14:06] Monster Monstruo 61403101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:14:07 - [2024-10-10 03:14:07] Monster Monstruo 71403101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:14:11 - [2024-10-10 03:14:11] Monster Monstruo 111403101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:14:22 - [2024-10-10 03:14:22] Monster Monstruo 401303101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 03:14:25 - [2024-10-10 03:14:25] Monster Monstruo 251403101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:14:31 - [2024-10-10 03:14:31] Monster Monstruo 311403101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:14:46 - [2024-10-10 03:14:46] Monster Monstruo 461403101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:14:47 - [2024-10-10 03:14:47] Monster Monstruo 471403101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:15:00 - [2024-10-10 03:15:00] Monster Monstruo 1503101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:15:04 - [2024-10-10 03:15:04] Monster Monstruo 41503101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:15:06 - [2024-10-10 03:15:06] Monster Monstruo 61503101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:15:20 - [2024-10-10 03:15:20] Monster Monstruo 111403101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 03:15:22 - [2024-10-10 03:15:22] Monster Monstruo 221503101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:15:26 - [2024-10-10 03:15:26] Monster Monstruo 261503101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:15:29 - [2024-10-10 03:15:29] Monster Monstruo 291503101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:15:33 - [2024-10-10 03:15:33] Monster Monstruo 331503101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:15:34 - [2024-10-10 03:15:34] Monster Monstruo 341503101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:15:35 - [2024-10-10 03:15:35] Monster Monstruo 351503101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:15:46 - [2024-10-10 03:15:46] Monster Monstruo 461503101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:15:50 - [2024-10-10 03:15:50] Monster Monstruo 501503101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:16:04 - [2024-10-10 03:16:04] Monster Monstruo 221503101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 03:16:04 - [2024-10-10 03:16:04] Monster Monstruo 41603101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:16:07 - [2024-10-10 03:16:07] Monster Monstruo 71603101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:16:11 - [2024-10-10 03:16:11] Monster Monstruo 111603101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:16:15 - [2024-10-10 03:16:15] Monster Monstruo 151603101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:16:18 - [2024-10-10 03:16:18] Monster Monstruo 181603101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:16:20 - [2024-10-10 03:16:20] Monster Monstruo 201603101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:16:23 - [2024-10-10 03:16:23] Monster Monstruo 231603101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:16:37 - [2024-10-10 03:16:37] Monster Monstruo 371603101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:16:40 - [2024-10-10 03:16:40] Monster Monstruo 401603101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:16:50 - [2024-10-10 03:16:50] Monster Monstruo 501603101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:16:50 - [2024-10-10 03:16:50] Monster Monstruo 41603101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 03:17:06 - [2024-10-10 03:17:06] Monster Monstruo 61703101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:17:11 - [2024-10-10 03:17:11] Monster Monstruo 111703101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:17:42 - [2024-10-10 03:17:42] Monster Monstruo 421703101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:17:59 - [2024-10-10 03:17:59] Monster Monstruo 591703101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:18:05 - [2024-10-10 03:18:05] Monster Monstruo 51803101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:18:06 - [2024-10-10 03:18:06] Monster Monstruo 61803101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:18:11 - [2024-10-10 03:18:11] Monster Monstruo 111803101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:18:21 - [2024-10-10 03:18:21] Monster Monstruo 401603101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 03:18:21 - [2024-10-10 03:18:21] Monster Monstruo 211803101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:18:24 - [2024-10-10 03:18:24] Monster Monstruo 241803101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:18:48 - [2024-10-10 03:18:48] Monster Monstruo 481803101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:18:54 - [2024-10-10 03:18:54] Monster Monstruo 541803101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:18:56 - [2024-10-10 03:18:56] Monster Monstruo 561803101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:19:04 - [2024-10-10 03:19:04] Monster Monstruo 41903101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:19:08 - [2024-10-10 03:19:08] Monster Monstruo 81903101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:19:11 - [2024-10-10 03:19:11] Monster Monstruo 111903101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:19:21 - [2024-10-10 03:19:21] Monster Monstruo 111803101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 03:19:22 - [2024-10-10 03:19:22] Monster Monstruo 221903101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:19:29 - [2024-10-10 03:19:29] Monster Monstruo 291903101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:19:32 - [2024-10-10 03:19:32] Monster Monstruo 321903101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:19:34 - [2024-10-10 03:19:34] Monster Monstruo 341903101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:19:35 - [2024-10-10 03:19:35] Monster Monstruo 351903101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:19:38 - [2024-10-10 03:19:38] Monster Monstruo 381903101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:19:50 - [2024-10-10 03:19:50] Monster Monstruo 501903101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:20:03 - [2024-10-10 03:20:03] Monster Monstruo 111903101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 03:20:04 - [2024-10-10 03:20:04] Monster Monstruo 42003101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:20:05 - [2024-10-10 03:20:05] Monster Monstruo 52003101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:20:07 - [2024-10-10 03:20:07] Monster Monstruo 72003101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:20:16 - [2024-10-10 03:20:16] Monster Monstruo 162003101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:20:25 - [2024-10-10 03:20:25] Monster Monstruo 252003101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:20:29 - [2024-10-10 03:20:29] Monster Monstruo 292003101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:20:30 - [2024-10-10 03:20:30] Monster Monstruo 302003101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:20:37 - [2024-10-10 03:20:37] Monster Monstruo 372003101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:20:38 - [2024-10-10 03:20:38] Monster Monstruo 382003101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:20:50 - [2024-10-10 03:20:50] Monster Monstruo 42003101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 03:20:58 - [2024-10-10 03:20:58] Monster Monstruo 582003101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:21:00 - [2024-10-10 03:21:00] Monster Monstruo 2103101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:21:03 - [2024-10-10 03:21:03] Monster Monstruo 32103101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:21:07 - [2024-10-10 03:21:07] Monster Monstruo 72103101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:21:10 - [2024-10-10 03:21:10] Monster Monstruo 102103101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:21:13 - [2024-10-10 03:21:13] Monster Monstruo 132103101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:21:22 - [2024-10-10 03:21:22] Monster Monstruo 222103101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:21:24 - [2024-10-10 03:21:24] Monster Monstruo 242103101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:21:36 - [2024-10-10 03:21:36] Monster Monstruo 382003101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 03:21:37 - [2024-10-10 03:21:37] Monster Monstruo 372103101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:21:38 - [2024-10-10 03:21:38] Monster Monstruo 382103101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:21:44 - [2024-10-10 03:21:44] Monster Monstruo 442103101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:21:47 - [2024-10-10 03:21:47] Monster Monstruo 472103101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:21:50 - [2024-10-10 03:21:50] Monster Monstruo 502103101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:21:59 - [2024-10-10 03:21:59] Monster Monstruo 592103101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:22:02 - [2024-10-10 03:22:02] Monster Monstruo 22203101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:22:16 - [2024-10-10 03:22:16] Monster Monstruo 242103101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 03:22:16 - [2024-10-10 03:22:16] Monster Monstruo 162203101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:22:17 - [2024-10-10 03:22:17] Monster Monstruo 172203101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:22:23 - [2024-10-10 03:22:23] Monster Monstruo 232203101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:22:24 - [2024-10-10 03:22:24] Monster Monstruo 242203101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:22:25 - [2024-10-10 03:22:25] Monster Monstruo 252203101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:22:26 - [2024-10-10 03:22:26] Monster Monstruo 262203101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:22:29 - [2024-10-10 03:22:29] Monster Monstruo 292203101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:22:31 - [2024-10-10 03:22:31] Monster Monstruo 312203101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:22:34 - [2024-10-10 03:22:34] Monster Monstruo 342203101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:22:46 - [2024-10-10 03:22:46] Monster Monstruo 162203101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 03:22:55 - [2024-10-10 03:22:55] Monster Monstruo 552203101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:22:58 - [2024-10-10 03:22:58] Monster Monstruo 582203101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:23:04 - [2024-10-10 03:23:04] Monster Monstruo 42303101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:23:05 - [2024-10-10 03:23:05] Monster Monstruo 52303101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:23:11 - [2024-10-10 03:23:11] Monster Monstruo 112303101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 03:23:14 - [2024-10-10 03:23:14] Monster Monstruo 142303101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:23:20 - [2024-10-10 03:23:20] Monster Monstruo 202303101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:23:32 - [2024-10-10 03:23:32] Monster Monstruo 342203101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 03:23:39 - [2024-10-10 03:23:39] Monster Monstruo 392303101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 03:23:46 - [2024-10-10 03:23:46] Monster Monstruo 462303101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:23:52 - [2024-10-10 03:23:52] Monster Monstruo 522303101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 03:23:54 - [2024-10-10 03:23:54] Monster Monstruo 542303101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 03:23:56 - [2024-10-10 03:23:56] Monster Monstruo 562303101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:23:57 - [2024-10-10 03:23:57] Monster Monstruo 572303101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 03:23:59 - [2024-10-10 03:23:59] Monster Monstruo 592303101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 03:24:01 - [2024-10-10 03:24:01] Monster Monstruo 12403101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:46:13 - [2024-10-10 09:46:13] Monster Monstruo 134609101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:46:14 - [2024-10-10 09:46:14] Monster Monstruo 144609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:46:20 - [2024-10-10 09:46:20] Monster Monstruo 204609101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:46:23 - [2024-10-10 09:46:23] Monster Monstruo 234609101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:46:32 - [2024-10-10 09:46:32] Monster Monstruo 324609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:46:38 - [2024-10-10 09:46:38] Monster Monstruo 384609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:46:39 - [2024-10-10 09:46:39] Monster Monstruo 394609101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:46:42 - [2024-10-10 09:46:42] Monster Monstruo 424609101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:46:45 - [2024-10-10 09:46:45] Monster Monstruo 454609101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:46:56 - [2024-10-10 09:46:56] Monster Monstruo 134609101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 09:46:57 - [2024-10-10 09:46:57] Monster Monstruo 574609101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:47:02 - [2024-10-10 09:47:02] Monster Monstruo 24709101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:47:06 - [2024-10-10 09:47:06] Monster Monstruo 64709101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:47:14 - [2024-10-10 09:47:14] Monster Monstruo 144709101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:47:15 - [2024-10-10 09:47:15] Monster Monstruo 154709101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:47:16 - [2024-10-10 09:47:16] Monster Monstruo 164709101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:47:17 - [2024-10-10 09:47:17] Monster Monstruo 174709101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:47:22 - [2024-10-10 09:47:22] Monster Monstruo 224709101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:47:32 - [2024-10-10 09:47:32] Monster Monstruo 454609101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 09:47:35 - [2024-10-10 09:47:35] Monster Monstruo 354709101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:47:36 - [2024-10-10 09:47:36] Monster Monstruo 364709101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:47:38 - [2024-10-10 09:47:38] Monster Monstruo 384709101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:47:50 - [2024-10-10 09:47:50] Monster Monstruo 504709101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:47:56 - [2024-10-10 09:47:56] Monster Monstruo 564709101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:48:01 - [2024-10-10 09:48:01] Monster Monstruo 14809101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:48:04 - [2024-10-10 09:48:04] Monster Monstruo 44809101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:48:17 - [2024-10-10 09:48:17] Monster Monstruo 224709101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 09:48:17 - [2024-10-10 09:48:17] Monster Monstruo 174809101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:48:21 - [2024-10-10 09:48:21] Monster Monstruo 214809101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:48:23 - [2024-10-10 09:48:23] Monster Monstruo 234809101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:48:24 - [2024-10-10 09:48:24] Monster Monstruo 244809101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:48:27 - [2024-10-10 09:48:27] Monster Monstruo 274809101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:48:30 - [2024-10-10 09:48:30] Monster Monstruo 304809101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:48:36 - [2024-10-10 09:48:36] Monster Monstruo 364809101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:48:41 - [2024-10-10 09:48:41] Monster Monstruo 414809101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:48:42 - [2024-10-10 09:48:42] Monster Monstruo 424809101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:48:43 - [2024-10-10 09:48:43] Monster Monstruo 434809101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:48:55 - [2024-10-10 09:48:55] Monster Monstruo 174809101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 09:49:01 - [2024-10-10 09:49:01] Monster Monstruo 14909101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:49:03 - [2024-10-10 09:49:03] Monster Monstruo 34909101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:49:09 - [2024-10-10 09:49:09] Monster Monstruo 94909101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:49:10 - [2024-10-10 09:49:10] Monster Monstruo 104909101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:49:13 - [2024-10-10 09:49:13] Monster Monstruo 134909101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:49:14 - [2024-10-10 09:49:14] Monster Monstruo 144909101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:49:18 - [2024-10-10 09:49:18] Monster Monstruo 184909101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:49:54 - [2024-10-10 09:49:54] Monster Monstruo 544909101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:50:10 - [2024-10-10 09:50:10] Monster Monstruo 105009101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:50:16 - [2024-10-10 09:50:16] Monster Monstruo 165009101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:50:31 - [2024-10-10 09:50:31] Monster Monstruo 315009101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:50:34 - [2024-10-10 09:50:34] Monster Monstruo 345009101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:50:45 - [2024-10-10 09:50:45] Monster Monstruo 455009101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:50:55 - [2024-10-10 09:50:55] Monster Monstruo 555009101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:50:58 - [2024-10-10 09:50:58] Monster Monstruo 585009101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:50:59 - [2024-10-10 09:50:59] Monster Monstruo 595009101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:51:10 - [2024-10-10 09:51:10] Monster Monstruo 544909101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 09:51:12 - [2024-10-10 09:51:12] Monster Monstruo 125109101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:51:13 - [2024-10-10 09:51:13] Monster Monstruo 135109101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:51:20 - [2024-10-10 09:51:20] Monster Monstruo 205109101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:51:22 - [2024-10-10 09:51:22] Monster Monstruo 225109101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:51:23 - [2024-10-10 09:51:23] Monster Monstruo 235109101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:51:26 - [2024-10-10 09:51:26] Monster Monstruo 265109101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:51:30 - [2024-10-10 09:51:30] Monster Monstruo 305109101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:51:32 - [2024-10-10 09:51:32] Monster Monstruo 325109101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:51:44 - [2024-10-10 09:51:44] Monster Monstruo 595009101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 09:52:12 - [2024-10-10 09:52:12] Monster Monstruo 125209101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:52:21 - [2024-10-10 09:52:21] Monster Monstruo 215209101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:52:31 - [2024-10-10 09:52:31] Monster Monstruo 315209101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:52:33 - [2024-10-10 09:52:33] Monster Monstruo 335209101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:52:37 - [2024-10-10 09:52:37] Monster Monstruo 375209101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:52:38 - [2024-10-10 09:52:38] Monster Monstruo 385209101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:52:40 - [2024-10-10 09:52:40] Monster Monstruo 405209101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:52:42 - [2024-10-10 09:52:42] Monster Monstruo 425209101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:52:55 - [2024-10-10 09:52:55] Monster Monstruo 325109101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 09:52:56 - [2024-10-10 09:52:56] Monster Monstruo 565209101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:53:03 - [2024-10-10 09:53:03] Monster Monstruo 35309101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:53:17 - [2024-10-10 09:53:17] Monster Monstruo 175309101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:53:26 - [2024-10-10 09:53:26] Monster Monstruo 265309101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:53:31 - [2024-10-10 09:53:31] Monster Monstruo 315309101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:53:41 - [2024-10-10 09:53:41] Monster Monstruo 415309101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:53:44 - [2024-10-10 09:53:44] Monster Monstruo 445309101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:53:45 - [2024-10-10 09:53:45] Monster Monstruo 455309101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:53:57 - [2024-10-10 09:53:57] Monster Monstruo 425209101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 09:54:02 - [2024-10-10 09:54:02] Monster Monstruo 25409101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:54:05 - [2024-10-10 09:54:05] Monster Monstruo 55409101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:54:13 - [2024-10-10 09:54:13] Monster Monstruo 135409101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:54:17 - [2024-10-10 09:54:17] Monster Monstruo 175409101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:54:22 - [2024-10-10 09:54:22] Monster Monstruo 225409101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:54:29 - [2024-10-10 09:54:29] Monster Monstruo 295409101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:54:39 - [2024-10-10 09:54:39] Monster Monstruo 395409101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:54:51 - [2024-10-10 09:54:51] Monster Monstruo 455309101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 09:54:52 - [2024-10-10 09:54:52] Monster Monstruo 525409101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:54:58 - [2024-10-10 09:54:58] Monster Monstruo 585409101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:54:59 - [2024-10-10 09:54:59] Monster Monstruo 595409101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:55:00 - [2024-10-10 09:55:00] Monster Monstruo 5509101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:55:01 - [2024-10-10 09:55:01] Monster Monstruo 15509101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:55:13 - [2024-10-10 09:55:13] Monster Monstruo 135509101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:55:14 - [2024-10-10 09:55:14] Monster Monstruo 145509101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:55:15 - [2024-10-10 09:55:15] Monster Monstruo 155509101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:55:29 - [2024-10-10 09:55:29] Monster Monstruo 525409101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 09:55:30 - [2024-10-10 09:55:30] Monster Monstruo 305509101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:55:33 - [2024-10-10 09:55:33] Monster Monstruo 335509101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:55:39 - [2024-10-10 09:55:39] Monster Monstruo 395509101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:55:41 - [2024-10-10 09:55:41] Monster Monstruo 415509101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:55:45 - [2024-10-10 09:55:45] Monster Monstruo 455509101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:55:56 - [2024-10-10 09:55:56] Monster Monstruo 565509101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:56:00 - [2024-10-10 09:56:00] Monster Monstruo 5609101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:56:01 - [2024-10-10 09:56:01] Monster Monstruo 15609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:56:04 - [2024-10-10 09:56:04] Monster Monstruo 45609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:56:16 - [2024-10-10 09:56:16] Monster Monstruo 305509101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 09:56:27 - [2024-10-10 09:56:27] Monster Monstruo 275609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:56:32 - [2024-10-10 09:56:32] Monster Monstruo 325609101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:56:34 - [2024-10-10 09:56:34] Monster Monstruo 345609101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:56:36 - [2024-10-10 09:56:36] Monster Monstruo 365609101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:56:44 - [2024-10-10 09:56:44] Monster Monstruo 445609101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:56:45 - [2024-10-10 09:56:45] Monster Monstruo 455609101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:56:47 - [2024-10-10 09:56:47] Monster Monstruo 475609101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:56:49 - [2024-10-10 09:56:49] Monster Monstruo 495609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:56:51 - [2024-10-10 09:56:51] Monster Monstruo 515609101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:57:02 - [2024-10-10 09:57:02] Monster Monstruo 45609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 09:57:19 - [2024-10-10 09:57:19] Monster Monstruo 195709101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:57:21 - [2024-10-10 09:57:21] Monster Monstruo 215709101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:57:25 - [2024-10-10 09:57:25] Monster Monstruo 255709101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:57:27 - [2024-10-10 09:57:27] Monster Monstruo 275709101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:57:31 - [2024-10-10 09:57:31] Monster Monstruo 315709101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:57:34 - [2024-10-10 09:57:34] Monster Monstruo 345709101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:57:37 - [2024-10-10 09:57:37] Monster Monstruo 375709101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 09:57:48 - [2024-10-10 09:57:48] Monster Monstruo 495609101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 09:57:48 - [2024-10-10 09:57:48] Monster Monstruo 485709101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:58:06 - [2024-10-10 09:58:06] Monster Monstruo 65809101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:58:08 - [2024-10-10 09:58:08] Monster Monstruo 85809101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:58:10 - [2024-10-10 09:58:10] Monster Monstruo 105809101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:58:11 - [2024-10-10 09:58:11] Monster Monstruo 115809101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 09:58:12 - [2024-10-10 09:58:12] Monster Monstruo 125809101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:58:16 - [2024-10-10 09:58:16] Monster Monstruo 165809101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:58:29 - [2024-10-10 09:58:29] Monster Monstruo 375709101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 09:58:35 - [2024-10-10 09:58:35] Monster Monstruo 355809101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:58:37 - [2024-10-10 09:58:37] Monster Monstruo 375809101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 09:58:40 - [2024-10-10 09:58:40] Monster Monstruo 405809101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 09:58:42 - [2024-10-10 09:58:42] Monster Monstruo 425809101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 09:58:44 - [2024-10-10 09:58:44] Monster Monstruo 445809101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 09:58:50 - [2024-10-10 09:58:50] Monster Monstruo 505809101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:22:04 - [2024-10-10 10:22:04] Monster Monstruo 42210101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:22:07 - [2024-10-10 10:22:07] Monster Monstruo 72210101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:22:10 - [2024-10-10 10:22:10] Monster Monstruo 102210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:22:11 - [2024-10-10 10:22:11] Monster Monstruo 112210101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:22:13 - [2024-10-10 10:22:13] Monster Monstruo 132210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:22:18 - [2024-10-10 10:22:18] Monster Monstruo 182210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:22:22 - [2024-10-10 10:22:22] Monster Monstruo 222210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:22:27 - [2024-10-10 10:22:27] Monster Monstruo 272210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:22:40 - [2024-10-10 10:22:40] Monster Monstruo 42210101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 10:22:42 - [2024-10-10 10:22:42] Monster Monstruo 422210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:22:44 - [2024-10-10 10:22:44] Monster Monstruo 442210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:22:46 - [2024-10-10 10:22:46] Monster Monstruo 462210101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:22:47 - [2024-10-10 10:22:47] Monster Monstruo 472210101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:22:48 - [2024-10-10 10:22:48] Monster Monstruo 482210101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:22:50 - [2024-10-10 10:22:50] Monster Monstruo 502210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:22:57 - [2024-10-10 10:22:57] Monster Monstruo 572210101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:23:00 - [2024-10-10 10:23:00] Monster Monstruo 2310101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:23:01 - [2024-10-10 10:23:01] Monster Monstruo 12310101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:23:14 - [2024-10-10 10:23:14] Monster Monstruo 422210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:23:18 - [2024-10-10 10:23:18] Monster Monstruo 182310101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:23:22 - [2024-10-10 10:23:22] Monster Monstruo 222310101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:23:31 - [2024-10-10 10:23:31] Monster Monstruo 312310101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:23:32 - [2024-10-10 10:23:32] Monster Monstruo 322310101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:23:36 - [2024-10-10 10:23:36] Monster Monstruo 362310101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:23:37 - [2024-10-10 10:23:37] Monster Monstruo 372310101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:23:38 - [2024-10-10 10:23:38] Monster Monstruo 382310101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:23:40 - [2024-10-10 10:23:40] Monster Monstruo 402310101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:23:42 - [2024-10-10 10:23:42] Monster Monstruo 422310101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:23:53 - [2024-10-10 10:23:53] Monster Monstruo 12310101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:24:01 - [2024-10-10 10:24:01] Monster Monstruo 12410101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:24:05 - [2024-10-10 10:24:05] Monster Monstruo 52410101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:24:17 - [2024-10-10 10:24:17] Monster Monstruo 172410101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:24:21 - [2024-10-10 10:24:21] Monster Monstruo 212410101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:24:28 - [2024-10-10 10:24:28] Monster Monstruo 282410101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:24:30 - [2024-10-10 10:24:30] Monster Monstruo 302410101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:24:43 - [2024-10-10 10:24:43] Monster Monstruo 402310101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:24:44 - [2024-10-10 10:24:44] Monster Monstruo 442410101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:24:47 - [2024-10-10 10:24:47] Monster Monstruo 472410101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:24:54 - [2024-10-10 10:24:54] Monster Monstruo 542410101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:24:58 - [2024-10-10 10:24:58] Monster Monstruo 582410101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:25:00 - [2024-10-10 10:25:00] Monster Monstruo 2510101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:25:01 - [2024-10-10 10:25:01] Monster Monstruo 12510101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:25:04 - [2024-10-10 10:25:04] Monster Monstruo 42510101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:25:05 - [2024-10-10 10:25:05] Monster Monstruo 52510101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:25:19 - [2024-10-10 10:25:19] Monster Monstruo 442410101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 10:25:20 - [2024-10-10 10:25:20] Monster Monstruo 202510101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:25:26 - [2024-10-10 10:25:26] Monster Monstruo 262510101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:25:30 - [2024-10-10 10:25:30] Monster Monstruo 302510101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:25:32 - [2024-10-10 10:25:32] Monster Monstruo 322510101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:25:38 - [2024-10-10 10:25:38] Monster Monstruo 382510101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:25:46 - [2024-10-10 10:25:46] Monster Monstruo 462510101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:25:48 - [2024-10-10 10:25:48] Monster Monstruo 482510101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:25:59 - [2024-10-10 10:25:59] Monster Monstruo 592510101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:26:01 - [2024-10-10 10:26:01] Monster Monstruo 12610101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:26:11 - [2024-10-10 10:26:11] Monster Monstruo 202510101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 10:26:11 - [2024-10-10 10:26:11] Monster Monstruo 112610101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:26:20 - [2024-10-10 10:26:20] Monster Monstruo 202610101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:26:23 - [2024-10-10 10:26:23] Monster Monstruo 232610101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:26:26 - [2024-10-10 10:26:26] Monster Monstruo 262610101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:26:29 - [2024-10-10 10:26:29] Monster Monstruo 292610101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:26:30 - [2024-10-10 10:26:30] Monster Monstruo 302610101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:26:38 - [2024-10-10 10:26:38] Monster Monstruo 382610101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:26:39 - [2024-10-10 10:26:39] Monster Monstruo 392610101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:26:51 - [2024-10-10 10:26:51] Monster Monstruo 12610101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:26:54 - [2024-10-10 10:26:54] Monster Monstruo 542610101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:27:07 - [2024-10-10 10:27:07] Monster Monstruo 72710101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:27:08 - [2024-10-10 10:27:08] Monster Monstruo 82710101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:27:13 - [2024-10-10 10:27:13] Monster Monstruo 132710101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:27:16 - [2024-10-10 10:27:16] Monster Monstruo 162710101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:27:17 - [2024-10-10 10:27:17] Monster Monstruo 172710101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:27:20 - [2024-10-10 10:27:20] Monster Monstruo 202710101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:27:23 - [2024-10-10 10:27:23] Monster Monstruo 232710101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:27:34 - [2024-10-10 10:27:34] Monster Monstruo 392610101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 10:27:35 - [2024-10-10 10:27:35] Monster Monstruo 352710101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:27:36 - [2024-10-10 10:27:36] Monster Monstruo 362710101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:27:40 - [2024-10-10 10:27:40] Monster Monstruo 402710101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:27:43 - [2024-10-10 10:27:43] Monster Monstruo 432710101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:27:47 - [2024-10-10 10:27:47] Monster Monstruo 472710101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:27:52 - [2024-10-10 10:27:52] Monster Monstruo 522710101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:27:55 - [2024-10-10 10:27:55] Monster Monstruo 552710101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:28:08 - [2024-10-10 10:28:08] Monster Monstruo 232710101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:28:09 - [2024-10-10 10:28:09] Monster Monstruo 92810101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:28:12 - [2024-10-10 10:28:12] Monster Monstruo 122810101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:28:14 - [2024-10-10 10:28:14] Monster Monstruo 142810101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:28:18 - [2024-10-10 10:28:18] Monster Monstruo 182810101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:28:19 - [2024-10-10 10:28:19] Monster Monstruo 192810101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:28:30 - [2024-10-10 10:28:30] Monster Monstruo 302810101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:28:35 - [2024-10-10 10:28:35] Monster Monstruo 352810101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:28:36 - [2024-10-10 10:28:36] Monster Monstruo 362810101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:28:37 - [2024-10-10 10:28:37] Monster Monstruo 372810101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:28:39 - [2024-10-10 10:28:39] Monster Monstruo 392810101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:28:50 - [2024-10-10 10:28:50] Monster Monstruo 92810101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 10:28:52 - [2024-10-10 10:28:52] Monster Monstruo 522810101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:29:01 - [2024-10-10 10:29:01] Monster Monstruo 12910101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:29:13 - [2024-10-10 10:29:13] Monster Monstruo 132910101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:29:15 - [2024-10-10 10:29:15] Monster Monstruo 152910101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:29:16 - [2024-10-10 10:29:16] Monster Monstruo 162910101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:29:18 - [2024-10-10 10:29:18] Monster Monstruo 182910101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:29:32 - [2024-10-10 10:29:32] Monster Monstruo 372810101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:29:34 - [2024-10-10 10:29:34] Monster Monstruo 342910101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:29:35 - [2024-10-10 10:29:35] Monster Monstruo 352910101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:29:43 - [2024-10-10 10:29:43] Monster Monstruo 432910101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:29:45 - [2024-10-10 10:29:45] Monster Monstruo 452910101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:29:48 - [2024-10-10 10:29:48] Monster Monstruo 482910101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:29:58 - [2024-10-10 10:29:58] Monster Monstruo 582910101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:30:01 - [2024-10-10 10:30:01] Monster Monstruo 13010101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:30:04 - [2024-10-10 10:30:04] Monster Monstruo 43010101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:30:16 - [2024-10-10 10:30:16] Monster Monstruo 342910101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 10:30:18 - [2024-10-10 10:30:18] Monster Monstruo 183010101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:30:30 - [2024-10-10 10:30:30] Monster Monstruo 303010101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:30:33 - [2024-10-10 10:30:33] Monster Monstruo 333010101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:30:37 - [2024-10-10 10:30:37] Monster Monstruo 373010101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:30:42 - [2024-10-10 10:30:42] Monster Monstruo 423010101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:30:43 - [2024-10-10 10:30:43] Monster Monstruo 433010101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:30:50 - [2024-10-10 10:30:50] Monster Monstruo 503010101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:30:52 - [2024-10-10 10:30:52] Monster Monstruo 523010101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:30:54 - [2024-10-10 10:30:54] Monster Monstruo 543010101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:32:00 - [2024-10-10 10:32:00] Monster Monstruo 3210101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:32:04 - [2024-10-10 10:32:04] Monster Monstruo 43210101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:32:08 - [2024-10-10 10:32:08] Monster Monstruo 83210101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:32:19 - [2024-10-10 10:32:19] Monster Monstruo 193210101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:32:20 - [2024-10-10 10:32:20] Monster Monstruo 203210101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:32:22 - [2024-10-10 10:32:22] Monster Monstruo 223210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:32:36 - [2024-10-10 10:32:36] Monster Monstruo 363210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:32:58 - [2024-10-10 10:32:58] Monster Monstruo 583210101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:32:59 - [2024-10-10 10:32:59] Monster Monstruo 593210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:33:32 - [2024-10-10 10:33:32] Monster Monstruo 323310101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:33:58 - [2024-10-10 10:33:58] Monster Monstruo 583310101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:34:03 - [2024-10-10 10:34:03] Monster Monstruo 33410101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:34:13 - [2024-10-10 10:34:13] Monster Monstruo 133410101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:34:28 - [2024-10-10 10:34:28] Monster Monstruo 283410101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:34:53 - [2024-10-10 10:34:53] Monster Monstruo 533410101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:42:03 - [2024-10-10 10:42:03] Monster Monstruo 34210101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:42:17 - [2024-10-10 10:42:17] Monster Monstruo 174210101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:42:23 - [2024-10-10 10:42:23] Monster Monstruo 234210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:42:42 - [2024-10-10 10:42:42] Monster Monstruo 424210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:42:58 - [2024-10-10 10:42:58] Monster Monstruo 584210101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:43:00 - [2024-10-10 10:43:00] Monster Monstruo 4310101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:43:02 - [2024-10-10 10:43:02] Monster Monstruo 24310101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:43:14 - [2024-10-10 10:43:14] Monster Monstruo 144310101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:43:16 - [2024-10-10 10:43:16] Monster Monstruo 164310101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:43:27 - [2024-10-10 10:43:27] Monster Monstruo 34210101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 10:43:27 - [2024-10-10 10:43:27] Monster Monstruo 274310101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:43:31 - [2024-10-10 10:43:31] Monster Monstruo 314310101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:43:33 - [2024-10-10 10:43:33] Monster Monstruo 334310101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:43:39 - [2024-10-10 10:43:39] Monster Monstruo 394310101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:43:43 - [2024-10-10 10:43:43] Monster Monstruo 434310101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:43:47 - [2024-10-10 10:43:47] Monster Monstruo 474310101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:43:49 - [2024-10-10 10:43:49] Monster Monstruo 494310101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:44:03 - [2024-10-10 10:44:03] Monster Monstruo 164310101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:44:17 - [2024-10-10 10:44:17] Monster Monstruo 174410101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:44:29 - [2024-10-10 10:44:29] Monster Monstruo 294410101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:50:57 - [2024-10-10 10:50:57] Monster Monstruo 575010101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:51:06 - [2024-10-10 10:51:06] Monster Monstruo 65110101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:51:21 - [2024-10-10 10:51:21] Monster Monstruo 215110101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:51:27 - [2024-10-10 10:51:27] Monster Monstruo 275110101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:51:33 - [2024-10-10 10:51:33] Monster Monstruo 335110101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:51:57 - [2024-10-10 10:51:57] Monster Monstruo 575110101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:52:00 - [2024-10-10 10:52:00] Monster Monstruo 5210101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:52:06 - [2024-10-10 10:52:06] Monster Monstruo 65210101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:52:20 - [2024-10-10 10:52:20] Monster Monstruo 575010101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 10:52:23 - [2024-10-10 10:52:23] Monster Monstruo 235210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:52:44 - [2024-10-10 10:52:44] Monster Monstruo 445210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:52:50 - [2024-10-10 10:52:50] Monster Monstruo 505210101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:53:32 - [2024-10-10 10:53:32] Monster Monstruo 325310101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:53:47 - [2024-10-10 10:53:47] Monster Monstruo 475310101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:53:56 - [2024-10-10 10:53:56] Monster Monstruo 565310101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:54:35 - [2024-10-10 10:54:35] Monster Monstruo 355410101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:54:38 - [2024-10-10 10:54:38] Monster Monstruo 385410101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:54:50 - [2024-10-10 10:54:50] Monster Monstruo 235210101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:55:06 - [2024-10-10 10:55:06] Monster Monstruo 65510101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:55:12 - [2024-10-10 10:55:12] Monster Monstruo 125510101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:55:18 - [2024-10-10 10:55:18] Monster Monstruo 185510101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:55:27 - [2024-10-10 10:55:27] Monster Monstruo 275510101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:55:45 - [2024-10-10 10:55:45] Monster Monstruo 455510101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:55:51 - [2024-10-10 10:55:51] Monster Monstruo 515510101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:56:09 - [2024-10-10 10:56:09] Monster Monstruo 95610101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:56:12 - [2024-10-10 10:56:12] Monster Monstruo 125610101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:56:25 - [2024-10-10 10:56:25] Monster Monstruo 65510101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 10:58:22 - [2024-10-10 10:58:22] Monster Monstruo 225810101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 10:58:26 - [2024-10-10 10:58:26] Monster Monstruo 265810101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 10:58:38 - [2024-10-10 10:58:38] Monster Monstruo 385810101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 10:58:44 - [2024-10-10 10:58:44] Monster Monstruo 445810101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 10:58:52 - [2024-10-10 10:58:52] Monster Monstruo 525810101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:59:17 - [2024-10-10 10:59:17] Monster Monstruo 175910101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:59:23 - [2024-10-10 10:59:23] Monster Monstruo 235910101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 10:59:33 - [2024-10-10 10:59:33] Monster Monstruo 335910101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 10:59:46 - [2024-10-10 10:59:46] Monster Monstruo 225810101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 11:00:26 - [2024-10-10 11:00:26] Monster Monstruo 260011101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:00:30 - [2024-10-10 11:00:30] Monster Monstruo 300011101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:00:34 - [2024-10-10 11:00:34] Monster Monstruo 340011101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:00:42 - [2024-10-10 11:00:42] Monster Monstruo 420011101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:00:46 - [2024-10-10 11:00:46] Monster Monstruo 460011101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:00:48 - [2024-10-10 11:00:48] Monster Monstruo 480011101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:00:54 - [2024-10-10 11:00:54] Monster Monstruo 540011101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:01:32 - [2024-10-10 11:01:32] Monster Monstruo 320111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:01:45 - [2024-10-10 11:01:45] Monster Monstruo 260011101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 11:01:49 - [2024-10-10 11:01:49] Monster Monstruo 490111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:01:51 - [2024-10-10 11:01:51] Monster Monstruo 510111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:04:34 - [2024-10-10 11:04:34] Monster Monstruo 340411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:04:35 - [2024-10-10 11:04:35] Monster Monstruo 350411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:04:44 - [2024-10-10 11:04:44] Monster Monstruo 440411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:04:53 - [2024-10-10 11:04:53] Monster Monstruo 530411101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:04:55 - [2024-10-10 11:04:55] Monster Monstruo 550411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:04:56 - [2024-10-10 11:04:56] Monster Monstruo 560411101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:04:58 - [2024-10-10 11:04:58] Monster Monstruo 580411101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:05:07 - [2024-10-10 11:05:07] Monster Monstruo 70511101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:05:21 - [2024-10-10 11:05:21] Monster Monstruo 210511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:05:21 - [2024-10-10 11:05:21] Monster Monstruo 340411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 11:05:24 - [2024-10-10 11:05:24] Monster Monstruo 240511101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:05:29 - [2024-10-10 11:05:29] Monster Monstruo 290511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:05:32 - [2024-10-10 11:05:32] Monster Monstruo 320511101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:05:36 - [2024-10-10 11:05:36] Monster Monstruo 360511101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:05:37 - [2024-10-10 11:05:37] Monster Monstruo 370511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:13:56 - [2024-10-10 11:13:56] Monster Monstruo 561311101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:14:03 - [2024-10-10 11:14:03] Monster Monstruo 31411101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:14:06 - [2024-10-10 11:14:06] Monster Monstruo 61411101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:14:19 - [2024-10-10 11:14:19] Monster Monstruo 191411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:14:27 - [2024-10-10 11:14:27] Monster Monstruo 271411101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:14:33 - [2024-10-10 11:14:33] Monster Monstruo 331411101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:14:36 - [2024-10-10 11:14:36] Monster Monstruo 361411101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:14:37 - [2024-10-10 11:14:37] Monster Monstruo 371411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:14:40 - [2024-10-10 11:14:40] Monster Monstruo 401411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:14:52 - [2024-10-10 11:14:52] Monster Monstruo 521411101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:14:52 - [2024-10-10 11:14:52] Monster Monstruo 561311101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 11:14:53 - [2024-10-10 11:14:53] Monster Monstruo 531411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:14:54 - [2024-10-10 11:14:54] Monster Monstruo 541411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:14:55 - [2024-10-10 11:14:55] Monster Monstruo 551411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:14:56 - [2024-10-10 11:14:56] Monster Monstruo 561411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:14:58 - [2024-10-10 11:14:58] Monster Monstruo 581411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:15:06 - [2024-10-10 11:15:06] Monster Monstruo 61511101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:15:20 - [2024-10-10 11:15:20] Monster Monstruo 401411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 11:15:21 - [2024-10-10 11:15:21] Monster Monstruo 211511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:15:23 - [2024-10-10 11:15:23] Monster Monstruo 231511101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:15:31 - [2024-10-10 11:15:31] Monster Monstruo 311511101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:15:36 - [2024-10-10 11:15:36] Monster Monstruo 361511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:23:43 - [2024-10-10 11:23:43] Monster Monstruo 432311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:23:44 - [2024-10-10 11:23:44] Monster Monstruo 442311101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:23:48 - [2024-10-10 11:23:48] Monster Monstruo 482311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:23:50 - [2024-10-10 11:23:50] Monster Monstruo 502311101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:23:52 - [2024-10-10 11:23:52] Monster Monstruo 522311101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:23:53 - [2024-10-10 11:23:53] Monster Monstruo 532311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:23:54 - [2024-10-10 11:23:54] Monster Monstruo 542311101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:24:03 - [2024-10-10 11:24:03] Monster Monstruo 32411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:24:16 - [2024-10-10 11:24:16] Monster Monstruo 432311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 11:24:18 - [2024-10-10 11:24:18] Monster Monstruo 182411101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:24:19 - [2024-10-10 11:24:19] Monster Monstruo 192411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:24:27 - [2024-10-10 11:24:27] Monster Monstruo 272411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:24:32 - [2024-10-10 11:24:32] Monster Monstruo 322411101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:24:39 - [2024-10-10 11:24:39] Monster Monstruo 392411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:24:43 - [2024-10-10 11:24:43] Monster Monstruo 432411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:24:48 - [2024-10-10 11:24:48] Monster Monstruo 482411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:24:52 - [2024-10-10 11:24:52] Monster Monstruo 522411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:24:53 - [2024-10-10 11:24:53] Monster Monstruo 532411101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:25:05 - [2024-10-10 11:25:05] Monster Monstruo 182411101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 11:25:08 - [2024-10-10 11:25:08] Monster Monstruo 82511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:25:11 - [2024-10-10 11:25:11] Monster Monstruo 112511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:25:21 - [2024-10-10 11:25:21] Monster Monstruo 212511101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:25:24 - [2024-10-10 11:25:24] Monster Monstruo 242511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:25:38 - [2024-10-10 11:25:38] Monster Monstruo 382511101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:25:39 - [2024-10-10 11:25:39] Monster Monstruo 392511101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:25:40 - [2024-10-10 11:25:40] Monster Monstruo 402511101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:25:42 - [2024-10-10 11:25:42] Monster Monstruo 422511101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:25:43 - [2024-10-10 11:25:43] Monster Monstruo 432511101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:25:55 - [2024-10-10 11:25:55] Monster Monstruo 532411101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 11:25:57 - [2024-10-10 11:25:57] Monster Monstruo 572511101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:26:05 - [2024-10-10 11:26:05] Monster Monstruo 52611101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:26:12 - [2024-10-10 11:26:12] Monster Monstruo 122611101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:26:22 - [2024-10-10 11:26:22] Monster Monstruo 222611101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:26:34 - [2024-10-10 11:26:34] Monster Monstruo 342611101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:26:43 - [2024-10-10 11:26:43] Monster Monstruo 432611101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:30:20 - [2024-10-10 11:30:20] Monster Monstruo 203011101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:30:21 - [2024-10-10 11:30:21] Monster Monstruo 213011101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:30:22 - [2024-10-10 11:30:22] Monster Monstruo 223011101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:30:25 - [2024-10-10 11:30:25] Monster Monstruo 253011101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:30:30 - [2024-10-10 11:30:30] Monster Monstruo 303011101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:30:32 - [2024-10-10 11:30:32] Monster Monstruo 323011101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:30:33 - [2024-10-10 11:30:33] Monster Monstruo 333011101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:30:34 - [2024-10-10 11:30:34] Monster Monstruo 343011101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:30:36 - [2024-10-10 11:30:36] Monster Monstruo 363011101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:30:49 - [2024-10-10 11:30:49] Monster Monstruo 203011101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 11:31:03 - [2024-10-10 11:31:03] Monster Monstruo 33111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:31:04 - [2024-10-10 11:31:04] Monster Monstruo 43111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:31:06 - [2024-10-10 11:31:06] Monster Monstruo 63111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:31:10 - [2024-10-10 11:31:10] Monster Monstruo 103111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:40:41 - [2024-10-10 11:40:41] Monster Monstruo 414011101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:40:47 - [2024-10-10 11:40:47] Monster Monstruo 474011101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:41:00 - [2024-10-10 11:41:00] Monster Monstruo 4111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:41:00 - [2024-10-10 11:41:00] Monster Monstruo 4111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:41:01 - [2024-10-10 11:41:01] Monster Monstruo 14111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:41:03 - [2024-10-10 11:41:03] Monster Monstruo 34111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:05 - [2024-10-10 11:41:05] Monster Monstruo 54111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:06 - [2024-10-10 11:41:06] Monster Monstruo 64111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:06 - [2024-10-10 11:41:06] Monster Monstruo 64111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:41:07 - [2024-10-10 11:41:07] Monster Monstruo 74111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:07 - [2024-10-10 11:41:07] Monster Monstruo 74111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:41:07 - [2024-10-10 11:41:07] Monster Monstruo 74111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:41:07 - [2024-10-10 11:41:07] Monster Monstruo 74111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:41:07 - [2024-10-10 11:41:07] Monster Monstruo 74111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:41:07 - [2024-10-10 11:41:07] Monster Monstruo 74111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:41:07 - [2024-10-10 11:41:07] Monster Monstruo 74111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:41:08 - [2024-10-10 11:41:08] Monster Monstruo 84111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:41:09 - [2024-10-10 11:41:09] Monster Monstruo 94111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:41:23 - [2024-10-10 11:41:23] Monster Monstruo 414011101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 11:43:37 - [2024-10-10 11:43:37] Monster Monstruo 374311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:43:41 - [2024-10-10 11:43:41] Monster Monstruo 414311101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:43:41 - [2024-10-10 11:43:41] Monster Monstruo 414311101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:43:41 - [2024-10-10 11:43:41] Monster Monstruo 414311101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:43:41 - [2024-10-10 11:43:41] Monster Monstruo 414311101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:43:41 - [2024-10-10 11:43:41] Monster Monstruo 414311101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:43:41 - [2024-10-10 11:43:41] Monster Monstruo 414311101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:43:42 - [2024-10-10 11:43:42] Monster Monstruo 424311101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:43:44 - [2024-10-10 11:43:44] Monster Monstruo 444311101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:43:46 - [2024-10-10 11:43:46] Monster Monstruo 464311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:43:50 - [2024-10-10 11:43:50] Monster Monstruo 504311101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:44:06 - [2024-10-10 11:44:06] Monster Monstruo 374311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 11:44:17 - [2024-10-10 11:44:17] Monster Monstruo 174411101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:44:21 - [2024-10-10 11:44:21] Monster Monstruo 214411101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:44:27 - [2024-10-10 11:44:27] Monster Monstruo 274411101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:44:30 - [2024-10-10 11:44:30] Monster Monstruo 304411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:44:32 - [2024-10-10 11:44:32] Monster Monstruo 324411101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:44:46 - [2024-10-10 11:44:46] Monster Monstruo 444311101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 11:44:53 - [2024-10-10 11:44:53] Monster Monstruo 534411101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:45:00 - [2024-10-10 11:45:00] Monster Monstruo 4511101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:45:09 - [2024-10-10 11:45:09] Monster Monstruo 94511101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:47:16 - [2024-10-10 11:47:16] Monster Monstruo 164711101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:47:16 - [2024-10-10 11:47:16] Monster Monstruo 164711101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:47:24 - [2024-10-10 11:47:24] Monster Monstruo 244711101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:47:26 - [2024-10-10 11:47:26] Monster Monstruo 264711101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:47:27 - [2024-10-10 11:47:27] Monster Monstruo 274711101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:47:48 - [2024-10-10 11:47:48] Monster Monstruo 164711101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 11:47:53 - [2024-10-10 11:47:53] Monster Monstruo 534711101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:47:56 - [2024-10-10 11:47:56] Monster Monstruo 564711101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:47:57 - [2024-10-10 11:47:57] Monster Monstruo 574711101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:48:16 - [2024-10-10 11:48:16] Monster Monstruo 264711101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 11:48:19 - [2024-10-10 11:48:19] Monster Monstruo 194811101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:48:21 - [2024-10-10 11:48:21] Monster Monstruo 214811101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:48:24 - [2024-10-10 11:48:24] Monster Monstruo 244811101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:48:28 - [2024-10-10 11:48:28] Monster Monstruo 284811101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:48:30 - [2024-10-10 11:48:30] Monster Monstruo 304811101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:48:32 - [2024-10-10 11:48:32] Monster Monstruo 324811101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:48:34 - [2024-10-10 11:48:34] Monster Monstruo 344811101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:48:48 - [2024-10-10 11:48:48] Monster Monstruo 574711101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 11:48:54 - [2024-10-10 11:48:54] Monster Monstruo 544811101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:48:59 - [2024-10-10 11:48:59] Monster Monstruo 594811101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:51:06 - [2024-10-10 11:51:06] Monster Monstruo 65111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:51:13 - [2024-10-10 11:51:13] Monster Monstruo 135111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:51:14 - [2024-10-10 11:51:14] Monster Monstruo 145111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:51:14 - [2024-10-10 11:51:14] Monster Monstruo 145111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:51:15 - [2024-10-10 11:51:15] Monster Monstruo 155111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:51:15 - [2024-10-10 11:51:15] Monster Monstruo 155111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:51:15 - [2024-10-10 11:51:15] Monster Monstruo 155111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:51:15 - [2024-10-10 11:51:15] Monster Monstruo 155111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:51:15 - [2024-10-10 11:51:15] Monster Monstruo 155111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:51:15 - [2024-10-10 11:51:15] Monster Monstruo 155111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:51:16 - [2024-10-10 11:51:16] Monster Monstruo 165111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:51:16 - [2024-10-10 11:51:16] Monster Monstruo 165111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:51:16 - [2024-10-10 11:51:16] Monster Monstruo 165111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:51:16 - [2024-10-10 11:51:16] Monster Monstruo 165111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:51:16 - [2024-10-10 11:51:16] Monster Monstruo 165111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:51:16 - [2024-10-10 11:51:16] Monster Monstruo 165111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:51:16 - [2024-10-10 11:51:16] Monster Monstruo 165111101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 11:51:16 - [2024-10-10 11:51:16] Monster Monstruo 165111101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:51:17 - [2024-10-10 11:51:17] Monster Monstruo 175111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:51:17 - [2024-10-10 11:51:17] Monster Monstruo 175111101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:51:17 - [2024-10-10 11:51:17] Monster Monstruo 175111101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:51:20 - [2024-10-10 11:51:20] Monster Monstruo 205111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:51:24 - [2024-10-10 11:51:24] Monster Monstruo 245111101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:51:37 - [2024-10-10 11:51:37] Monster Monstruo 65111101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 11:53:04 - [2024-10-10 11:53:04] Monster Monstruo 45311101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:53:08 - [2024-10-10 11:53:08] Monster Monstruo 85311101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:53:12 - [2024-10-10 11:53:12] Monster Monstruo 125311101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:53:15 - [2024-10-10 11:53:15] Monster Monstruo 155311101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:53:17 - [2024-10-10 11:53:17] Monster Monstruo 175311101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:53:21 - [2024-10-10 11:53:21] Monster Monstruo 215311101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:53:22 - [2024-10-10 11:53:22] Monster Monstruo 225311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:53:25 - [2024-10-10 11:53:25] Monster Monstruo 255311101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 11:53:26 - [2024-10-10 11:53:26] Monster Monstruo 265311101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:53:26 - [2024-10-10 11:53:26] Monster Monstruo 265311101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:53:37 - [2024-10-10 11:53:37] Monster Monstruo 45311101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was dequeued.
+2024-10-10 11:55:58 - [2024-10-10 11:55:58] Monster Monstruo 585511101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:56:07 - [2024-10-10 11:56:07] Monster Monstruo 75611101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:56:11 - [2024-10-10 11:56:11] Monster Monstruo 115611101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:56:12 - [2024-10-10 11:56:12] Monster Monstruo 125611101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:56:13 - [2024-10-10 11:56:13] Monster Monstruo 135611101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 11:56:18 - [2024-10-10 11:56:18] Monster Monstruo 185611101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 11:56:20 - [2024-10-10 11:56:20] Monster Monstruo 205611101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 11:56:28 - [2024-10-10 11:56:28] Monster Monstruo 285611101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:56:30 - [2024-10-10 11:56:30] Monster Monstruo 305611101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 11:56:41 - [2024-10-10 11:56:41] Monster Monstruo 585511101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 12:00:36 - [2024-10-10 12:00:36] Monster Monstruo 360012101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:00:42 - [2024-10-10 12:00:42] Monster Monstruo 420012101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:00:48 - [2024-10-10 12:00:48] Monster Monstruo 480012101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:00:51 - [2024-10-10 12:00:51] Monster Monstruo 510012101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:01:07 - [2024-10-10 12:01:07] Monster Monstruo 70112101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:01:10 - [2024-10-10 12:01:10] Monster Monstruo 100112101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:01:22 - [2024-10-10 12:01:22] Monster Monstruo 220112101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:01:34 - [2024-10-10 12:01:34] Monster Monstruo 340112101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:01:47 - [2024-10-10 12:01:47] Monster Monstruo 360012101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 12:01:59 - [2024-10-10 12:01:59] Monster Monstruo 590112101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:02:29 - [2024-10-10 12:02:29] Monster Monstruo 290212101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:02:35 - [2024-10-10 12:02:35] Monster Monstruo 350212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:02:50 - [2024-10-10 12:02:50] Monster Monstruo 500212101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:05:58 - [2024-10-10 12:05:58] Monster Monstruo 580512101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:06:01 - [2024-10-10 12:06:01] Monster Monstruo 10612101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:06:01 - [2024-10-10 12:06:01] Monster Monstruo 10612101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:06:01 - [2024-10-10 12:06:01] Monster Monstruo 10612101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:06:06 - [2024-10-10 12:06:06] Monster Monstruo 60612101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:06:14 - [2024-10-10 12:06:14] Monster Monstruo 140612101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:06:18 - [2024-10-10 12:06:18] Monster Monstruo 180612101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:06:19 - [2024-10-10 12:06:19] Monster Monstruo 190612101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:06:22 - [2024-10-10 12:06:22] Monster Monstruo 220612101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:06:35 - [2024-10-10 12:06:35] Monster Monstruo 580512101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 12:07:28 - [2024-10-10 12:07:28] Monster Monstruo 280712101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:07:34 - [2024-10-10 12:07:34] Monster Monstruo 340712101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:07:44 - [2024-10-10 12:07:44] Monster Monstruo 440712101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:07:59 - [2024-10-10 12:07:59] Monster Monstruo 590712101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:08:01 - [2024-10-10 12:08:01] Monster Monstruo 10812101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:08:11 - [2024-10-10 12:08:11] Monster Monstruo 110812101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:08:23 - [2024-10-10 12:08:23] Monster Monstruo 280712101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 12:08:24 - [2024-10-10 12:08:24] Monster Monstruo 240812101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:08:38 - [2024-10-10 12:08:38] Monster Monstruo 380812101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:08:42 - [2024-10-10 12:08:42] Monster Monstruo 420812101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:08:43 - [2024-10-10 12:08:43] Monster Monstruo 430812101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:08:52 - [2024-10-10 12:08:52] Monster Monstruo 520812101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:08:58 - [2024-10-10 12:08:58] Monster Monstruo 580812101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:09:00 - [2024-10-10 12:09:00] Monster Monstruo 912101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:09:11 - [2024-10-10 12:09:11] Monster Monstruo 240812101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 12:09:14 - [2024-10-10 12:09:14] Monster Monstruo 140912101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:09:15 - [2024-10-10 12:09:15] Monster Monstruo 150912101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:09:17 - [2024-10-10 12:09:17] Monster Monstruo 170912101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:09:18 - [2024-10-10 12:09:18] Monster Monstruo 180912101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:09:20 - [2024-10-10 12:09:20] Monster Monstruo 200912101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:09:22 - [2024-10-10 12:09:22] Monster Monstruo 220912101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:09:35 - [2024-10-10 12:09:35] Monster Monstruo 912101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 12:09:35 - [2024-10-10 12:09:35] Monster Monstruo 350912101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:09:39 - [2024-10-10 12:09:39] Monster Monstruo 390912101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:09:42 - [2024-10-10 12:09:42] Monster Monstruo 420912101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:09:43 - [2024-10-10 12:09:43] Monster Monstruo 430912101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:09:46 - [2024-10-10 12:09:46] Monster Monstruo 460912101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:09:59 - [2024-10-10 12:09:59] Monster Monstruo 220912101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 12:10:08 - [2024-10-10 12:10:08] Monster Monstruo 81012101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:10:09 - [2024-10-10 12:10:09] Monster Monstruo 91012101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:10:16 - [2024-10-10 12:10:16] Monster Monstruo 161012101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:10:18 - [2024-10-10 12:10:18] Monster Monstruo 181012101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:10:22 - [2024-10-10 12:10:22] Monster Monstruo 221012101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:10:26 - [2024-10-10 12:10:26] Monster Monstruo 261012101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:10:40 - [2024-10-10 12:10:40] Monster Monstruo 81012101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 12:10:47 - [2024-10-10 12:10:47] Monster Monstruo 471012101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:10:51 - [2024-10-10 12:10:51] Monster Monstruo 511012101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:10:52 - [2024-10-10 12:10:52] Monster Monstruo 521012101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:10:55 - [2024-10-10 12:10:55] Monster Monstruo 551012101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:10:58 - [2024-10-10 12:10:58] Monster Monstruo 581012101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:11:01 - [2024-10-10 12:11:01] Monster Monstruo 11112101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:11:14 - [2024-10-10 12:11:14] Monster Monstruo 471012101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 12:11:20 - [2024-10-10 12:11:20] Monster Monstruo 201112101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:11:23 - [2024-10-10 12:11:23] Monster Monstruo 231112101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:11:27 - [2024-10-10 12:11:27] Monster Monstruo 271112101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:11:37 - [2024-10-10 12:11:37] Monster Monstruo 371112101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:11:40 - [2024-10-10 12:11:40] Monster Monstruo 401112101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:11:47 - [2024-10-10 12:11:47] Monster Monstruo 471112101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:12:00 - [2024-10-10 12:12:00] Monster Monstruo 201112101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was dequeued.
+2024-10-10 12:12:00 - [2024-10-10 12:12:00] Monster Monstruo 1212101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:12:01 - [2024-10-10 12:12:01] Monster Monstruo 11212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:12:02 - [2024-10-10 12:12:02] Monster Monstruo 21212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:12:07 - [2024-10-10 12:12:07] Monster Monstruo 71212101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:12:11 - [2024-10-10 12:12:11] Monster Monstruo 111212101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:12:17 - [2024-10-10 12:12:17] Monster Monstruo 171212101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:12:30 - [2024-10-10 12:12:30] Monster Monstruo 1212101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was dequeued.
+2024-10-10 12:12:32 - [2024-10-10 12:12:32] Monster Monstruo 321212101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:12:40 - [2024-10-10 12:12:40] Monster Monstruo 401212101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:12:43 - [2024-10-10 12:12:43] Monster Monstruo 431212101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:12:44 - [2024-10-10 12:12:44] Monster Monstruo 441212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:12:47 - [2024-10-10 12:12:47] Monster Monstruo 471212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:12:48 - [2024-10-10 12:12:48] Monster Monstruo 481212101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:12:51 - [2024-10-10 12:12:51] Monster Monstruo 511212101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:13:02 - [2024-10-10 12:13:02] Monster Monstruo 321212101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 12:13:02 - [2024-10-10 12:13:02] Monster Monstruo 21312101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:13:04 - [2024-10-10 12:13:04] Monster Monstruo 41312101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:13:08 - [2024-10-10 12:13:08] Monster Monstruo 81312101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:13:09 - [2024-10-10 12:13:09] Monster Monstruo 91312101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:13:11 - [2024-10-10 12:13:11] Monster Monstruo 111312101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:13:12 - [2024-10-10 12:13:12] Monster Monstruo 121312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:13:26 - [2024-10-10 12:13:26] Monster Monstruo 261312101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:13:26 - [2024-10-10 12:13:26] Monster Monstruo 511212101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was dequeued.
+2024-10-10 12:13:28 - [2024-10-10 12:13:28] Monster Monstruo 281312101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:13:32 - [2024-10-10 12:13:32] Monster Monstruo 321312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:13:37 - [2024-10-10 12:13:37] Monster Monstruo 371312101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:13:39 - [2024-10-10 12:13:39] Monster Monstruo 391312101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:13:40 - [2024-10-10 12:13:40] Monster Monstruo 401312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:13:52 - [2024-10-10 12:13:52] Monster Monstruo 121312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 12:13:54 - [2024-10-10 12:13:54] Monster Monstruo 541312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:13:58 - [2024-10-10 12:13:58] Monster Monstruo 581312101024 , Tipo: REGENERACION , Combinación Oscura, Orgánico, Despiadada was enqueued.
+2024-10-10 12:14:14 - [2024-10-10 12:14:14] Monster Monstruo 141412101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:14:15 - [2024-10-10 12:14:15] Monster Monstruo 151412101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:14:17 - [2024-10-10 12:14:17] Monster Monstruo 171412101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:14:20 - [2024-10-10 12:14:20] Monster Monstruo 201412101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:14:31 - [2024-10-10 12:14:31] Monster Monstruo 401312101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was dequeued.
+2024-10-10 12:14:32 - [2024-10-10 12:14:32] Monster Monstruo 321412101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:14:33 - [2024-10-10 12:14:33] Monster Monstruo 331412101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:14:45 - [2024-10-10 12:14:45] Monster Monstruo 451412101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:14:48 - [2024-10-10 12:14:48] Monster Monstruo 481412101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
+2024-10-10 12:14:50 - [2024-10-10 12:14:50] Monster Monstruo 501412101024 , Tipo: INTELIGENCIA , Combinación Cósmica, Orgánico, Astuta was enqueued.
+2024-10-10 12:15:03 - [2024-10-10 12:15:03] Monster Monstruo 201412101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was dequeued.
+2024-10-10 12:15:04 - [2024-10-10 12:15:04] Monster Monstruo 41512101024 , Tipo: VENENO , Combinación Oscura, Radioactivo, Despiadada was enqueued.
+2024-10-10 12:15:11 - [2024-10-10 12:15:11] Monster Monstruo 111512101024 , Tipo: VELOCIDAD , Combinación Elemental, Orgánico, Caótica was enqueued.
+2024-10-10 12:15:19 - [2024-10-10 12:15:19] Monster Monstruo 191512101024 , Tipo: DESTRUCCION , Combinación Elemental, Radioactivo, Caótica was enqueued.
+2024-10-10 12:15:24 - [2024-10-10 12:15:24] Monster Monstruo 241512101024 , Tipo: LOCURA , Combinación Cósmica, Radioactivo, Caótica was enqueued.
